@@ -1,0 +1,181 @@
+<mjml>
+  <mj-head>
+    <mj-style inline="inline">
+      .background__title { background-color:#23B0E5; text-transform:uppercase;font-weight:bold; }
+    </mj-style>
+  </mj-head>
+  <mj-body>
+    <mj-container>
+      <mj-wrapper border="1px solid #000000" padding="0px 18px">
+
+        <!-- Image Header -->
+        <mj-section padding="0" background-url="./images/tau_image1.png" background-size="cover" background-repeat="no-repeat">
+
+          <mj-column>
+            <mj-spacer height="214px" />
+            <mj-column width="100%" background-color="rgba(35, 176, 229, .5)">
+
+              <mj-text align="left" color="#fff" font-size="28px" line-height="1.5" font-family="Verdana">Здравствуйте! С наступающим! Это компания Tau Innovative Solutions, и мы её акционеры — Рустем Басенов и Руслан Жемков</mj-text>
+            </mj-column>
+          </mj-column>
+
+        </mj-section>
+
+        <!-- Intro text -->
+        <mj-section>
+          <mj-column>
+            <mj-text color="#000000" font-size="15px" line-height="1.6" padding="0">
+              Наша компания специализируется на поиске и внедрении лучших <br> решений в сфере управления отходами и энергоэффективных <br> технологий в строительстве. Мы помогаем оптимизировать процесс <br> работы с мусором, чтобы снизить нагрузку с компаний
+              и сделать <br> экологию в стране лучше.
+            </mj-text>
+          </mj-column>
+        </mj-section>
+
+        <mj-section background-color="white">
+
+          <mj-column>
+            <mj-image padding="0" width="300" src="./images/tau_image2.png" />
+          </mj-column>
+
+          <mj-column>
+            <mj-text font-size="47px" font-family="Verdana" text-transform="uppercase" font-weight="bold" letter-spacing="5%" line-height="63px" color="#000000">
+              Ведь нам не всё равно
+            </mj-text>
+
+          </mj-column>
+        </mj-section>
+
+        <mj-section background-color="white">
+          <mj-column>
+            <mj-text color="#000000" font-size="15px" line-height="1.6" padding="0">
+              Наша компания специализируется на поиске и внедрении лучших <br> решений в сфере управления отходами и энергоэффективных <br> технологий в строительстве. Мы помогаем оптимизировать процесс <br> работы с мусором, чтобы снизить нагрузку с компаний
+              и сделать <br> экологию в стране лучше.
+            </mj-text>
+          </mj-column>
+        </mj-section>
+
+        <mj-section background-color="white">
+          <mj-column>
+            <mj-text font-size="25px" font-weight="bold" padding="0" text-transform="uppercase" padding-bottom="12px" font-family="Verdana" letter-spacing="2.5">
+              Предыстория
+            </mj-text>
+            <mj-text color="#000000" font-size="15px" line-height="1.6" padding="0" font-family="Verdana">
+              Летом в Астане прошла международная выставка ЭКСПО-2017. Это важное событие для всей страны, которое повлияло на её имидж и экономику.
+            </mj-text>
+            <mj-text color="#000000" font-size="15px" line-height="1.6" padding-top="24px" padding-left="0" font-family="Verdana">
+              Впервые столицу посетило так много зарубежных гостей. Каждый день на выставку приходили 50 000 человек, в пиковые дни доходило до 110 000. Для сравнения, в ледовый дворец «Барыс-Арена» помещается 11 578 человек, то есть в пиковые дни мы работали с аудиторией
+              в 10 «Барыс-Арен»! </mj-text>
+          </mj-column>
+        </mj-section>
+
+        <mj-section padding="0" background-url="./images/tau_image3.png" background-repeat="no-repeat">
+
+          <mj-column>
+            <mj-spacer height="90px" />
+            <mj-column width="100%" background-color="rgba(35, 176, 229, .5)">
+              <mj-text font-family="Verdana" align="center" color="#fff" font-size="72px" font-weight="bold" line-height="1.2">4 000 000</mj-text>
+              <mj-text font-family="Verdana" align="center" color="#fff" font-size="28px" font-weight="bold">человек посетили ЭКСПО</mj-text>
+              <mj-text font-family="Verdana" align="center" color="#fff" font-size="28px" font-weight="bold" line-height="1.2">за все время</mj-text>
+            </mj-column>
+            <mj-spacer height="90px" />
+            <mj-text color="#000000" font-size="15px" line-height="1.6" padding-left="0" font-family="Verdana">
+              Организаторам необходимо было максимально подготовить город к их приезду. И многие системы нужно было не только проверить, но и улучшить, потому что они не были рассчитаны на такое количество людей. К таким, например, относятся транспортная система, жильё,
+              подготовка обслуживающего персонала, а также сбор мусора. Если бы руководство ЭКСПО не подумало об этом вопросе, страну ждала бы имиджевая катастрофа.
+            </mj-text>
+          </mj-column>
+
+
+
+        </mj-section>
+
+        <mj-section background-color="white">
+          <!-- right paragraph -->
+          <mj-column>
+            <mj-text font-size="25px" font-weight="bold" padding="0" text-transform="uppercase" padding-bottom="12px" font-family="Verdana" letter-spacing="2.5">
+              Что бы произошло
+            </mj-text>
+          </mj-column>
+        </mj-section>
+        <mj-section padding-bottom="0px">
+          <mj-group>
+            <mj-column width="15%">
+              <mj-text font-size="75px" padding-top="10px" padding-left="15px" color="#23B0E5" font-weight="bold">
+                <p align="left" font-family="Verdana">1</p>
+              </mj-text>
+            </mj-column>
+            <mj-column width="85%">
+              <mj-text align="left" color="#000000" font-size="15px" line-height="1.6" padding="0" padding-right="0" font-family="Verdana">
+                За 3 месяца коммунальные службы ЭКСПО собрали бы столько мусора, сколько собирают во всей Астане за аналогичный период.
+              </mj-text>
+            </mj-column>
+          </mj-group>
+        </mj-section>
+        <mj-section padding-bottom="0px">
+          <mj-group>
+            <mj-column width="15%">
+              <mj-text font-size="75px" padding-top="20px" padding-left="15px" color="#23B0E5" font-weight="bold">
+                <p align="left" font-family="Verdana">2</p>
+              </mj-text>
+            </mj-column>
+            <mj-column width="85%">
+              <mj-text align="left" color="#000000" font-size="15px" line-height="1.5" padding="0" padding-right="0" font-family="Verdana">
+                Стандартные урны, которые ставят в городе, заполнились бы в течение часа после прихода посетителей. А так как вывозить мусор днём нельзя, к вечеру возле каждой собиралась бы настоящая свалка.
+              </mj-text>
+            </mj-column>
+          </mj-group>
+        </mj-section>
+
+        <mj-section padding-bottom="24px">
+          <mj-group>
+            <mj-column width="15%">
+              <mj-text font-size="75px" padding-top="20px" padding-left="15px" color="#23B0E5" font-weight="bold">
+                <p align="left" font-family="Verdana">3</p>
+              </mj-text>
+            </mj-column>
+            <mj-column width="85%">
+              <mj-text align="left" color="#000000" font-size="15px" line-height="1.5" padding="0" padding-right="0" font-family="Verdana">
+                Из-за невозможности производить опустошение урн обычными способами весь процесс занимал бы очень много времени. А так как всё происходило в летнее время, на территории всего комплекса стоял бы ужасный запах. </mj-text>
+            </mj-column>
+          </mj-group>
+        </mj-section>
+
+        <mj-section padding="0" padding-bottom="24px">
+          <mj-column border="10px solid #23B0E5" width="80%">
+            <mj-text align="center" color="#000000" font-size="25px" font-weight="bold" line-height="1.5" padding="0" padding-right="0" font-family="Verdana">
+              И всё это на глазах у десятков тысяч туристов
+            </mj-text>
+          </mj-column>
+        </mj-section>
+
+        <mj-section padding="0" background-url="./images/tau_image4.png" background-repeat="no-repeat">
+          <mj-column>
+            <mj-spacer height="223px" />
+            <mj-text padding-left="0" align="left" color="#fff" font-size="28px" font-family="Verdana">
+              <span class="background__title">как нам</span>
+            </mj-text>
+            <mj-text padding-left="0" align="left" color="#fff" font-size="28px" font-family="Verdana">
+              <span class="background__title">удалось</span>
+            </mj-text>
+            <mj-text padding-left="0" align="left" color="#fff" font-size="28px" font-family="Verdana">
+              <span class="background__title">этого избежать</span>
+            </mj-text>
+          </mj-column>
+        </mj-section>
+        <mj-section background-color="white">
+          <mj-column>
+            <mj-text font-weight="bold" color="#000000" font-size="15px"  padding="0" font-family="Verdana">
+              Мы создали первый в Казахстане эффективный цикл сортировки, сбора и удаления отходов с территории выставки, а также его временного хранения, вывоза и переработки. Система при этом соответствовала всем современным требованиям и мировым экологичным стандартам.
+            </mj-text>
+          </mj-column>
+        </mj-section>
+           <mj-section background-color="white">
+          <mj-column>
+            <mj-text  color="#000000" font-size="15px"  padding="0" font-family="Verdana">
+              Сначала мы рассчитали объём мусора, который будет на выставке и подобрали для работы с ним лучшее оборудование. Распределили на карте, где всё это будет, установили и запустили в работу.
+            </mj-text>
+          </mj-column>
+        </mj-section>
+      </mj-wrapper>
+    </mj-container>
+  </mj-body>
+</mjml>
