@@ -1,7 +1,12 @@
 <mjml>
   <mj-head>
+    <mj-attributes>
+      <mj-all font-family="Verdana" />
+    </mj-attributes>
     <mj-style inline="inline">
-      .background__title { background-color:#23B0E5; text-transform:uppercase;font-weight:bold; }
+      .background__title { background-color:#23B0E5; text-transform:uppercase;font-weight:bold; } .block-mg {background-color:rgba(35, 176, 229, 0.5);padding:10px 10px;} .mr {margin-right:25px} .ml {margin-left:25px} .blue-theme {background-color:rgba(35, 176,
+      229, 0.5); width: 336px; height: auto; padding:10px 10px;margin-left:-25px}
+      .transportation-theme {margin-left:0}
     </mj-style>
   </mj-head>
   <mj-body>
@@ -9,7 +14,7 @@
       <mj-wrapper border="1px solid #000000" padding="0px 18px">
 
         <!-- Image Header -->
-        <mj-section padding="0" background-url="./images/tau_image1.png" background-size="cover" background-repeat="no-repeat">
+        <mj-section padding="0" background-url="https://gallery.mailchimp.com/f028584affd821888fa184e3e/images/a4dc072f-1a76-4787-949b-5722ab535d2b.png" background-size="cover" background-repeat="no-repeat">
 
           <mj-column>
             <mj-spacer height="214px" />
@@ -31,10 +36,10 @@
           </mj-column>
         </mj-section>
 
-        <mj-section background-color="white">
+        <mj-section background-color="white" padding="0">
 
           <mj-column>
-            <mj-image padding="0" width="300" src="./images/tau_image2.png" />
+            <mj-image padding="0" width="300" src="https://gallery.mailchimp.com/f028584affd821888fa184e3e/images/16acb7c7-75f8-4496-9792-da52b845290d.png" />
           </mj-column>
 
           <mj-column>
@@ -54,7 +59,7 @@
           </mj-column>
         </mj-section>
 
-        <mj-section background-color="white">
+        <mj-section background-color="white" padding="0">
           <mj-column>
             <mj-text font-size="25px" font-weight="bold" padding="0" text-transform="uppercase" padding-bottom="12px" font-family="Verdana" letter-spacing="2.5">
               Предыстория
@@ -68,7 +73,7 @@
           </mj-column>
         </mj-section>
 
-        <mj-section padding="0" background-url="./images/tau_image3.png" background-repeat="no-repeat">
+        <mj-section padding="0" background-url="https://gallery.mailchimp.com/f028584affd821888fa184e3e/images/ac23419d-0b6d-4b3f-a198-81b1b41e2163.png" background-repeat="no-repeat">
 
           <mj-column>
             <mj-spacer height="90px" />
@@ -83,9 +88,6 @@
               подготовка обслуживающего персонала, а также сбор мусора. Если бы руководство ЭКСПО не подумало об этом вопросе, страну ждала бы имиджевая катастрофа.
             </mj-text>
           </mj-column>
-
-
-
         </mj-section>
 
         <mj-section background-color="white">
@@ -96,7 +98,7 @@
             </mj-text>
           </mj-column>
         </mj-section>
-        <mj-section padding-bottom="0px">
+        <mj-section padding="0">
           <mj-group>
             <mj-column width="15%">
               <mj-text font-size="75px" padding-top="10px" padding-left="15px" color="#23B0E5" font-weight="bold">
@@ -110,7 +112,7 @@
             </mj-column>
           </mj-group>
         </mj-section>
-        <mj-section padding-bottom="0px">
+        <mj-section padding="0px">
           <mj-group>
             <mj-column width="15%">
               <mj-text font-size="75px" padding-top="20px" padding-left="15px" color="#23B0E5" font-weight="bold">
@@ -147,7 +149,7 @@
           </mj-column>
         </mj-section>
 
-        <mj-section padding="0" background-url="./images/tau_image4.png" background-repeat="no-repeat">
+        <mj-section padding="0" background-url="https://gallery.mailchimp.com/f028584affd821888fa184e3e/images/9d888f96-56ff-4833-8e60-20be0b5356f6.png" background-repeat="no-repeat">
           <mj-column>
             <mj-spacer height="223px" />
             <mj-text padding-left="0" align="left" color="#fff" font-size="28px" font-family="Verdana">
@@ -163,15 +165,258 @@
         </mj-section>
         <mj-section background-color="white">
           <mj-column>
-            <mj-text font-weight="bold" color="#000000" font-size="15px"  padding="0" font-family="Verdana">
+            <mj-text font-weight="bold" color="#000000" font-size="15px" padding="0" font-family="Verdana">
               Мы создали первый в Казахстане эффективный цикл сортировки, сбора и удаления отходов с территории выставки, а также его временного хранения, вывоза и переработки. Система при этом соответствовала всем современным требованиям и мировым экологичным стандартам.
             </mj-text>
           </mj-column>
         </mj-section>
-           <mj-section background-color="white">
+        <mj-section background-color="white" padding="0">
           <mj-column>
-            <mj-text  color="#000000" font-size="15px"  padding="0" font-family="Verdana">
+            <mj-text color="#000000" font-size="15px" padding="0" font-family="Verdana">
               Сначала мы рассчитали объём мусора, который будет на выставке и подобрали для работы с ним лучшее оборудование. Распределили на карте, где всё это будет, установили и запустили в работу.
+            </mj-text>
+          </mj-column>
+        </mj-section>
+        <mj-section padding="0 30px">
+          <mj-group>
+            <mj-column>
+              <mj-text padding="0" align="center" font-size="15px" font-family="Verdana">
+                <p class="block-mg mr">умные урны для раздельного сбора</p>
+              </mj-text>
+              <mj-text padding="0" align="center" font-size="15px" font-family="Verdana">
+                <p class="block-mg mr">мобильные пресс-контейнеры</p>
+              </mj-text>
+              <mj-text padding="0" align="center" font-size="15px" font-family="Verdana">
+                <p class="block-mg mr">мусоропроводы</p>
+              </mj-text>
+            </mj-column>
+            <mj-column>
+              <mj-text padding="0" align="center" font-size="15px" font-family="Verdana">
+                <p class="block-mg ml">контейнеры для опасных отходов</p>
+              </mj-text>
+
+              <mj-text padding="0" align="center" font-size="15px" font-family="Verdana">
+                <p class="block-mg ml">объёмные урны для раздельного сбора</p>
+              </mj-text>
+              s
+              <mj-text padding="0" align="center" font-size="15px" font-family="Verdana">
+                <p class="block-mg ml">электрокары</p>
+              </mj-text>
+            </mj-column>
+          </mj-group>
+        </mj-section>
+        <mj-section padding="0">
+          <mj-group>
+            <mj-column>
+              <mj-image width="180px" height="120px" padding="0" src="https://gallery.mailchimp.com/f028584affd821888fa184e3e/images/d2088018-0cd3-4bb4-964e-57ba5804cf7b.png" />
+            </mj-column>
+            <mj-column>
+              <mj-image width="180px" height="120px" padding="0" src="https://gallery.mailchimp.com/f028584affd821888fa184e3e/images/07d91438-ecf1-4030-b479-fbfc68fd5d41.png" />
+            </mj-column>
+            <mj-column>
+              <mj-image width="180px" height="120px" padding="0" src="https://gallery.mailchimp.com/f028584affd821888fa184e3e/images/a81f5d76-7f53-413a-bd1b-7e1f736d983a.png" />
+            </mj-column>
+          </mj-group>
+        </mj-section>
+
+        <mj-section background-color="white">
+          <mj-column>
+            <mj-text color="#000000" font-size="15px" line-height="1.6" padding="0" font-family="Verdana">
+              Для сбора мусора на территории выставки установили умные урны Bigbelly Solar. В них встроен пресс для уплотнения отходов и работают они от солнечных панелей.
+            </mj-text>
+            <mj-text color="#000000" font-size="15px" line-height="1.6" padding-top="24px" padding-left="0" font-family="Verdana">
+              Каждый сегмент урны принимает отходы опредёленного типа. Внутри секции для неперерабатываемых отходов спрятан пресс для уплотнения — это позволяет уменьшить объём мусора в 10 раз. Благодаря этому мы сэкономили на размещении урн — если бы ставили обычные,
+              которые стоят по городу, их бы потребовалось в 30 раз больше.
+            </mj-text>
+          </mj-column>
+        </mj-section>
+
+        <mj-section padding="0">
+          <mj-column>
+            <mj-image padding="0" src="https://gallery.mailchimp.com/f028584affd821888fa184e3e/images/ce397af2-1b49-48b0-8970-93bf888ee564.png" />
+          </mj-column>
+        </mj-section>
+
+        <mj-section padding="24px 0">
+          <mj-group>
+            <mj-column width="30%">
+              <mj-text font-size="75px" padding-top="30px" align="center" padding-bottom="0" padding-left="15px" color="#23B0E5" font-weight="bold">
+                <p>10</p>
+              </mj-text>
+              <mj-text font-size="15px" align="center" color="#23B0E5" font-weight="bold">
+                <p>раз</p>
+              </mj-text>
+            </mj-column>
+            <mj-column width="70%">
+              <mj-text align="left" color="#000000" font-size="25px" line-height="34px" padding="0" padding-right="0" padding-top="0px" font-family="Verdana">
+                В среднем в 10 раз больше мусора помещается в урну Bigbelly Solar, в сравнении с обычной урной </mj-text>
+            </mj-column>
+          </mj-group>
+        </mj-section>
+
+        <mj-section padding="0" background-url="https://gallery.mailchimp.com/f028584affd821888fa184e3e/images/6980fe16-7753-488f-896a-745f31023225.png" background-size="cover" background-repeat="no-repeat">
+
+          <mj-column>
+            <mj-spacer height="150px" />
+            <mj-text align="left" color="#000000" font-size="15px" line-height="24px" font-family="Verdana">
+              <p class="blue-theme">Ещё в них установлен специальный датчик, который в реальном времени показывает уровень заполненности и отправляет эту информацию в единую систему мониторинга. Так наши сотрудники видели, какие урны заполняются быстрее, и эффективнее выстраивали
+                маршруты, чтобы не отправлять работников бродить по всей территории выставки и проверять их все подряд.</p>
+            </mj-text>
+          </mj-column>
+
+        </mj-section>
+
+        <mj-section background-color="white" padding="24px 0">
+          <mj-column>
+            <mj-text color="#000000" font-size="15px" padding="0" font-family="Verdana">
+              А раздельный сбор упрощает и способствует более качественной переработке мусора:система разделена на три отсека для бумаги, пластика и смешанных отходов. И, что самое главное, такой подход вырабатывает у людей привычку самостоятельно сортировать мусор —
+              в последние дни выставки 90% содержимого урн уже было отсортировано правильно. В будущем казахстанцам будет несложно перенести этот опыт домой, и мы рады, что способствовали этому. 
+              </mj-text>
+          </mj-column>
+        </mj-section>
+
+        <mj-section background-color="white" padding="24px 0">
+          <mj-column>
+            <mj-text color="#23B0E5" font-size="75px" padding="0" align="center" font-family="Verdana" font-weight="bold">
+              71
+            </mj-text>
+          </mj-column>
+        </mj-section>
+        <mj-section background-color="white" padding="24px 0">
+          <mj-column>
+            <mj-text color="#000000" font-size="26px" padding="0" align="center" line-height="1.5" font-weight="bold" font-family="Verdana">
+              станция Bigbelly была установлена на территории ЭКСПО
+            </mj-text>
+          </mj-column>
+        </mj-section>
+        <mj-section padding="24px 0">
+          <mj-group>
+            <mj-column>
+              <mj-text color="#23B0E5" font-weight="bold" font-size="48px" padding="0" align="center" font-family="Verdana">
+                46%
+              </mj-text>
+              <mj-text color="#000000" font-size="15px" padding-top="24px" align="center" font-family="Verdana">
+                сокращение затрат на сбор отходов
+              </mj-text>
+            </mj-column>
+            <mj-column>
+              <mj-text color="#23B0E5" font-weight="bold" font-size="48px" padding="0" align="center" font-family="Verdana">
+                90%
+              </mj-text>
+              <mj-text color="#000000" font-size="15px" padding-top="24px" align="center" font-family="Verdana">
+                повышение эффективности сбора
+              </mj-text>
+            </mj-column>
+            <mj-column>
+              <mj-text color="#23B0E5" font-weight="bold" font-size="48px" padding="0" align="center" font-family="Verdana">
+                45,5%
+              </mj-text>
+              <mj-text color="#000000" font-size="15px" padding-top="24px" align="center" font-family="Verdana">
+                экономия топлива в год
+              </mj-text>
+            </mj-column>
+          </mj-group>
+        </mj-section>
+         <mj-section padding="0" padding-bottom="200px"  background-url="https://gallery.mailchimp.com/f028584affd821888fa184e3e/images/b40b76c9-e494-4a37-9157-7574ff9b0a79.png" background-size="cover" background-repeat="no-repeat">
+          <mj-column>
+            <mj-text align="left" color="#ffffff" font-size="17px" line-height="25px" font-family="Verdana" font-weight="bold">
+              <p class="blue-theme transportation-theme">Для сбора и временной перевозки отходов мы использовали специальную технику французской компании Goupil</p>
+            </mj-text>
+          </mj-column>
+
+        </mj-section>
+          <mj-section background-color="white" padding="24px 0">
+          <mj-column>
+            <mj-text color="#000000" font-size="15px" padding="0" font-family="Verdana">
+              Их автомобильный парк считается одним из лучших в мире в сферах промышленности, уборки территорий, логистики, сбора мусора и транспортировки. Особенно важным для нас было то, что машины работали на электрических батареях. Это позволило сэкономить на топливе и исключить загрязнение воздуха столицы. К тому же, машинам на газе и бензине было запрещено передвигаться на выставке. Исключение сделали лишь для медицинских служб, но и то, их машины дежурили исключительно у въезда.              </mj-text>
+          </mj-column>
+        </mj-section>
+        <mj-section padding="0">
+          <mj-column>
+            <mj-image padding="0" src="https://gallery.mailchimp.com/f028584affd821888fa184e3e/images/3102d87c-ce57-4094-8a3a-ded70a12852c.png" />
+          </mj-column>
+        </mj-section>
+        <mj-section padding="0">
+          <mj-group>
+            <mj-column>
+              <mj-text color="#000000" font-size="15px" padding-top="24px" align="center" font-family="Verdana">
+                до
+              </mj-text>
+              <mj-text color="#23B0E5" font-weight="bold" padding-top="12px"  font-size="48px" padding="0" align="center" font-family="Verdana">
+                100 км
+              </mj-text>
+              <mj-text color="#000000" font-size="24px" padding-top="24px" align="center" font-family="Verdana">
+                на одном заряде
+              </mj-text>
+            </mj-column>
+            <mj-column>
+            <mj-text color="#000000" font-size="15px" padding-top="24px" align="center" font-family="Verdana">
+                до
+              </mj-text>
+              <mj-text color="#23B0E5" font-weight="bold" font-size="48px" padding-top="12px" padding="0" align="center" font-family="Verdana">
+                1000 кг
+              </mj-text>
+              <mj-text color="#000000" font-size="24px" padding-top="24px" align="center" font-family="Verdana">
+                грузоподъёмность
+              </mj-text>
+            </mj-column>
+          </mj-group>
+        </mj-section>
+        <mj-section background-color="white" padding="24px 0">
+          <mj-column>
+            <mj-text color="#000000" text-transform="uppercase" font-size="26px" padding="0" align="center" font-weight="bold" font-family="Verdana">
+              Каких результатов достигли
+            </mj-text>
+          </mj-column>
+        </mj-section>
+        <mj-section padding="0">
+          <mj-column>
+            <mj-image padding="0" src="https://gallery.mailchimp.com/f028584affd821888fa184e3e/images/765202f2-ffa5-4115-803e-2a6b96faf3fd.png" />
+          </mj-column>
+        </mj-section>
+        <mj-section background-color="white" padding="0">
+          <mj-column>
+            <mj-text color="#23B0E5" line-height="59px" letter-spacing="5%" text-transform="uppercase" font-size="26px" padding="0" align="center"  font-family="Verdana">
+              За время работы выставки мы вывезли <b>17 759</b> кубических метров мусора
+            </mj-text>
+          </mj-column>
+        </mj-section>
+        <mj-section background-color="white" padding="0">
+          <mj-column>
+            <mj-text color="#000000" font-size="15px" line-height="1.6" padding="0" font-family="Verdana">
+              Чтобы вы могли представить: классический металлический контейнер для мусора, который обычно ставят во дворах жилых домов, вмещает 0,75 кубических метра. Если бы мы собирали весь мусор в такие контейнеры, их бы нам потребовалось 23 412 штук. А мы всё собирали в мобильные пресс-контейнеры, которых нам потребовалось всего 13 штук.
+            </mj-text>
+            <mj-text color="#000000" font-size="15px" line-height="1.6" padding-top="24px" padding-left="0" font-family="Verdana">
+              Обслуживали мы не только казахстанскую часть, но и всю выставку в целом — это 21 международная организация и павильоны более 100 стран-участниц. За три месяца, включая самих организаторов, провели более 3000 мероприятий — от деловых форумов до концертов мировых звёзд.
+            </mj-text>
+          </mj-column>
+        </mj-section>
+          <mj-section padding="0" background-url="https://gallery.mailchimp.com/f028584affd821888fa184e3e/images/55d3c83e-5f62-4c9b-9d3a-22855cefec1e.png" background-size="cover" background-repeat="no-repeat">
+          <mj-column>
+            <mj-spacer height="235px" />
+            <mj-text padding-bottom="5px" padding-left="0" padding-right="0" align="right" color="#fff" font-size="25px" font-family="Verdana" letter-spacing="2">
+              <span class="background__title expo">за три месяца на</span>
+            </mj-text>
+            <mj-text padding-bottom="5px" padding-left="0" align="right" padding-right="0" color="#fff" font-size="25px" font-family="Verdana" letter-spacing="2">
+              <span class="background__title expo">экспо провели</span>
+            </mj-text>
+            <mj-text padding-bottom="5px" padding-left="0" align="right" padding-right="0" color="#fff" font-size="25px" font-family="Verdana" letter-spacing="2">
+              <span class="background__title expo">более</span>
+            </mj-text>
+            <mj-text padding-bottom="5px" padding-left="0" align="right" padding-right="0" color="#fff" font-size="25px" font-family="Verdana" letter-spacing="2">
+              <span class="background__title expo">3000 мероприятий</span>
+            </mj-text>
+                        <mj-spacer height="20px" />
+          </mj-column>
+        </mj-section>
+        <mj-section background-color="white">
+          <mj-column>
+            <mj-text color="#000000" font-size="15px" line-height="1.6" padding="0" font-family="Verdana">
+              По итогам активной фазы проведения выставки мы достигли показателя в 42% по переработке всех отходов. Вообще, такую задачу нам не ставили, мы просто сделали это. Потому что отсортированный мусор нужно куда-то девать, и лучший вариант — на переработку.
+            </mj-text>
+            <mj-text color="#000000" font-size="15px" line-height="1.6" padding-top="24px" padding-left="0" font-family="Verdana">
+             Особенно гордимся тем, что благодаря эффективному планированию мы успевали вывозить весь мусор за ночь — с 01:00 до 07:00 — это делалось для того, чтобы посетители не видели мусор вообще.
+             </mj-text>
             </mj-text>
           </mj-column>
         </mj-section>
