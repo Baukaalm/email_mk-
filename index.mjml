@@ -14,18 +14,18 @@
       height:472px !important; position:relative; background-repeat:no-repeat !important; } .desktop_bg_four td { background-image:url(https://gallery.mailchimp.com/d0f8d3cf5bde143e58a9700c5/images/c42b14e8-295e-4b4a-9f22-4f4b0d3a8433.png); height:389px
       !important; position:relative; background-repeat:no-repeat !important; } .statistic__titles{ background-color:rgba(35,176,229,.75); font-family:"Verdana"; font-size:15px; line-height:24px; color:#fff; width:359px; padding:10px 0px; margin-top:212px;
       } .goupil__titles{ background-color:rgba(35,176,229,.75); font-family:"Verdana"; font-size:17px; line-height:24px; color:#ffffff; width:302px; padding:10px 0px; padding-right:10px; margin-bottom:248px; font-weight:bold; } .top12px div{ padding-top:12px
-      !important; } .prev-image img{ height:auto !important; max-width:563px !important; } .btm12px div{ padding-bottom:6px !important; } .size25._leftText div { text-align:left !important; padding:0 18px !important; } .innovative__titles { background-color:rgba(35,176,229,0.75);
-      font-family:"Verdana"; width:502px; margin-top: 251px !important; } .desktop-img img{ display:block !important; } .mobile-img img{ display:none !important; } .innovative__title { font-size:22px; line-height:33px; padding-left:17px; padding-top:15px;
-      padding-right:0; } .names__title { font-size:17px; line-height:27px; padding-left:17px; padding-bottom:15px; } .expo__titles { background-color:rgba(35,176,229,0.75); text-align:center; } .expo__title { font-size:75px; line-height: 90px; font-weight:bold;
-      } .humans__title { font-size:25px; line-height: 35px !important; padding:0 100px; padding-bottom:10px; } .size15 div { font-size:15px !important; line-height:24px !important; padding:0 !important; } .section24 { padding:24px 0 !important; } .section12btm{
-      padding-bottom:6px !important; } .section12 { padding: 12px 0 !important; } .size25 div{ font-size:25px !important; line-height:35px !important; } .size48 div{ line-height:100% !important; font-size:45px !important; } .size35 div { line-height:43px
-      !important; font-size:35px !important; } .countUl div { font-size: 45px !important; line-height: 53px !important; padding-right:30px !important; padding-top:10px !important; } .bigText div { font-size: 45px !important; line-height: 53px !important;
-      } .countUl.second div { padding-top:20px !important; } .countUl.third div { padding-top:20px !important; } .size48 td { padding:0px 0px !important; } .desktop { display:block !important; } .mobile { display:none !important; } .button-prev-title
-      td { padding:18px 0px!important; } .button-prev-title-last td { padding-top:5px !important; } .first-prev td { padding-top:15px !important; } .size25btn{ font-size:24px !important; line-height:35px !important; } .blue-spacer div { line-height:24px
-      !important; } .spacer24 div { line-height:24px !important; } .partners__desc div { font-size: 15px !important; line-height: 18px !important; } .partners__desc._first div { padding-top:10px !important; } .partners__desc._second div { padding-top:12px
-      !important; } .partners__title td { padding-right: 30px !important; padding-left:0 !important; } .partners__title div { font-size: 15px !important; line-height: 18px !important; } .partners__title._second div { padding-top:32px !important; } .partners__title._third
-      div { padding-top:12px !important; } .partners__title._four div { padding-top:30px !important; } .soc__block-left { } .soc__block-right div { text-align:right !important; padding-right: 0 !important; } .soc__block-right td { padding-right: 0 !important;
-      } .last-padding-title div { font-size: 15px !important; line-height: 21px !important; } .last-padding-title._first div { padding-bottom:17px !important; } .image-mega-title div { font-size: 45px !important; line-height: 53px !important; }
+      !important; } .btm12px div{ padding-bottom:6px !important; } .size25._leftText div { text-align:left !important; padding:0 18px !important; } .innovative__titles { background-color:rgba(35,176,229,0.75); font-family:"Verdana"; width:502px; margin-top:
+      251px !important; } .desktop-img img{ display:block !important; } .mobile-img img{ display:none !important; } .innovative__title { font-size:22px; line-height:33px; padding-left:17px; padding-top:15px; padding-right:0; } .names__title { font-size:17px;
+      line-height:27px; padding-left:17px; padding-bottom:15px; } .expo__titles { background-color:rgba(35,176,229,0.75); text-align:center; } .expo__title { font-size:75px; line-height: 90px; font-weight:bold; } .humans__title { font-size:25px; line-height:
+      35px !important; padding:0 100px; padding-bottom:10px; } .size15 div { font-size:15px !important; line-height:24px !important; padding:0 !important; } .section24 { padding:24px 0 !important; } .section12btm{ padding-bottom:6px !important; } .section12
+      { padding: 12px 0 !important; } .size25 div{ font-size:25px !important; line-height:35px !important; } .size48 div{ line-height:100% !important; font-size:45px !important; } .size35 div { line-height:43px !important; font-size:35px !important; }
+      .countUl div { font-size: 45px !important; line-height: 53px !important; padding-right:30px !important; padding-top:10px !important; } .bigText div { font-size: 45px !important; line-height: 53px !important; } .countUl.second div { padding-top:20px
+      !important; } .countUl.third div { padding-top:20px !important; } .size48 td { padding:0px 0px !important; } .desktop { display:block !important; } .mobile { display:none !important; } .button-prev-title td { padding:18px 0px!important; } .button-prev-title-last
+      td { padding-top:5px !important; } .first-prev td { padding-top:15px !important; } .size25btn{ font-size:24px !important; line-height:35px !important; } .blue-spacer div { line-height:24px !important; } .spacer24 div { line-height:24px !important;
+      } .partners__desc div { font-size: 15px !important; line-height: 18px !important; } .partners__desc._first div { padding-top:10px !important; } .partners__desc._second div { padding-top:12px !important; } .partners__title td { padding-right: 30px
+      !important; padding-left:0 !important; } .partners__title div { font-size: 15px !important; line-height: 18px !important; } .partners__title._second div { padding-top:32px !important; } .partners__title._third div { padding-top:12px !important;
+      } .partners__title._four div { padding-top:30px !important; } .soc__block-left { } .soc__block-right div { text-align:right !important; padding-right: 0 !important; } .soc__block-right td { padding-right: 0 !important; } .last-padding-title div
+      { font-size: 15px !important; line-height: 21px !important; } .last-padding-title._first div { padding-bottom:17px !important; } .image-mega-title div { font-size: 45px !important; line-height: 53px !important; }
     </mj-style>
     <mj-style>
       @media only screen and (max-width: 480px) { .bigbelly, .goupil, .metalco { width:111px !important; background-size:111px 45px !important; } .bigbelly td, .goupil td, .metalco td { padding:0 !important; height:60px; } .last-padding-title._first div { padding-bottom:8px
@@ -60,13 +60,20 @@
     </mj-style>
   </mj-head>
   <mj-body>
-    <mj-container> 
+    <mj-container>
       <mj-wrapper css-class="white-bg" padding="0px 18px">
-        <mj-section padding="0">
-          <mj-column>
-            <mj-image padding="0" css-class="prev-image" src="https://gallery.mailchimp.com/e92ea81d2be99d544420d5949/images/b8d2a064-04c7-4a45-b94e-92fc5b83e9e2.png" />
-          </mj-column>
-        </mj-section>
+        <mj-hero mode="fixed-height" css-class="desktop_bg_first" padding="0px 0px">
+          <mj-hero-content width="100%">
+
+            <mj-text color="#ffffff" font-family="Verdana" align="left" padding="0" css-class="desktop_bg_first_text">
+              <div class="innovative__titles">
+                <div class="innovative__title">Здравствуйте! Это компания <br> Tau Innovative Solutions,</div>
+                <div class="names__title">и мы её акционеры — <br> Рустем Басенов и Руслан Жемков</div>
+              </div>
+            </mj-text>
+
+          </mj-hero-content>
+        </mj-hero>
 
         <mj-section padding="0" css-class="section24" background-color="white">
           <mj-column>
