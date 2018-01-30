@@ -7,7 +7,7 @@
     </mj-attributes>
     <mj-style inline="inline">
 
-      .icon{float:left;padding:0px; padding-top:18px;padding-bottom:18px;} icon:after {content:'';clear:both;display:table;} .fb {padding-left:112px; padding-right:0px;} .gram {padding-right:0px} .gram td {padding-left:9px !important;} .desktop_bg_first td
+      .icon{float:right;padding:0px; padding-top:18px;padding-bottom:18px;} icon:after {content:'';clear:both;display:table;} .fb {padding-left:10px; padding-right:0px;} .gram {padding-right:0px} .gram td {padding-left:9px !important;} .desktop_bg_first td
       { background-image:url(https://gallery.mailchimp.com/d0f8d3cf5bde143e58a9700c5/images/5a909d59-ee01-4ed7-ae6f-070b53de588b.png); height:401px !important; position:relative; background-repeat:no-repeat !important; } .desktop_bg_second td { background-image:url(https://gallery.mailchimp.com/d0f8d3cf5bde143e58a9700c5/images/7b9299ec-13f8-4a7e-87e3-d781f8315ab8.png);
       height:375px !important; position:relative; background-repeat:no-repeat !important; background-size:100% 100% !important; } .last-block { padding:24px 0 !important; } .section24-img img { padding:24px 0 !important; } .last-padding-block { padding:17px
       30px !important; background-color:rgba(35, 176, 229, 0.5); } td { padding-top:0 !important; padding-bottom:0 !important; } .custom__space { padding-top:24px !important; padding-bottom:6px !important; } .desktop_bg_third td { background-image:url(https://gallery.mailchimp.com/d0f8d3cf5bde143e58a9700c5/images/03351463-17e4-4b33-a985-682df55cb6a6.png);
@@ -19,13 +19,14 @@
       line-height:27px; padding-left:17px; padding-bottom:15px; } .expo__titles { background-color:rgba(35,176,229,0.75); text-align:center; } .expo__title { font-size:75px; line-height: 90px; font-weight:bold; } .humans__title { font-size:25px; line-height:
       35px !important; padding:0 100px; padding-bottom:10px; } .size15 div { font-size:15px !important; line-height:24px !important; padding:0 !important; } .section24 { padding:24px 0 !important; } .section12btm{ padding-bottom:6px !important; } .section12
       { padding: 12px 0 !important; } .size25 div{ font-size:25px !important; line-height:35px !important; } .size48 div{ line-height:100% !important; font-size:45px !important; } .size35 div { line-height:43px !important; font-size:35px !important; }
-      .countUl div { font-size: 45px !important; line-height: 53px !important; padding-right:30px !important; padding-top:10px !important; } .bigText div { font-size: 45px !important; line-height: 53px !important; } .countUl.second div { padding-top:20px
+      .countUl div { font-size: 45px !important; line-height: 53px !important; padding-right:20px !important; padding-top:10px !important; } .bigText div { font-size: 45px !important; line-height: 53px !important; } .countUl.second div { padding-top:20px
       !important; } .countUl.third div { padding-top:20px !important; } .size48 td { padding:0px 0px !important; } .desktop { display:block !important; } .mobile { display:none !important; } .button-prev-title td { padding:18px 0px!important; } .button-prev-title-last
       td { padding-top:5px !important; } .first-prev td { padding-top:15px !important; } .size25btn{ font-size:24px !important; line-height:35px !important; } .blue-spacer div { line-height:24px !important; } .spacer24 div { line-height:24px !important;
       } .partners__desc div { font-size: 15px !important; line-height: 18px !important; } .partners__desc._first div { padding-top:10px !important; } .partners__desc._second div { padding-top:12px !important; } .partners__title td { padding-right: 30px
       !important; padding-left:0 !important; } .partners__title div { font-size: 15px !important; line-height: 18px !important; } .partners__title._second div { padding-top:32px !important; } .partners__title._third div { padding-top:12px !important;
       } .partners__title._four div { padding-top:30px !important; } .soc__block-left { } .soc__block-right div { text-align:right !important; padding-right: 0 !important; } .soc__block-right td { padding-right: 0 !important; } .last-padding-title div
       { font-size: 15px !important; line-height: 21px !important; } .last-padding-title._first div { padding-bottom:17px !important; } .image-mega-title div { font-size: 45px !important; line-height: 53px !important; }
+
     </mj-style>
     <mj-style>
       @media only screen and (max-width: 480px) { .bigbelly, .goupil, .metalco { width:111px !important; background-size:111px 45px !important; } .bigbelly td, .goupil td, .metalco td { padding:0 !important; height:60px; } .last-padding-title._first div { padding-bottom:8px
@@ -46,34 +47,32 @@
       td { background-image:url(https://gallery.mailchimp.com/d0f8d3cf5bde143e58a9700c5/images/6eccf540-8127-4a3e-8f66-4a33339532cd.png) !important; width:100% !important; height:225px !important; position:relative; background-size:339px 225px; } .blue-blocks
       div { padding:0 !important; } .statistic__titles{ font-size:10px !important; line-height:15px !important; width:227px !important; padding:10px 10px !important; margin-top:101px !important; } .desktop_bg_third td { background-image:url(https://gallery.mailchimp.com/d0f8d3cf5bde143e58a9700c5/images/ad1a71a6-3238-49d2-97fc-45070603acb8.png)
       !important; width:100% !important; height:283px !important; background-size:339px 284px } .white-bg { overflow:hidden; } .no-padding td{ padding-right:0 !important; padding-left:0 !important; } .button-prev-title td { padding-top: 5px !important;
-      padding-right: 0px !important; padding-bottom: 10px !important; } .fb { padding-right:20px !important;width:26px !important;height:26px!important;} .gram {width:32px !important; height:27px !important} .fb td { padding-left:0 !important; padding-top:0
-      !important; padding-right:0 !important; } .gram td { padding-left: 0px !important; padding-top:0 !important; padding-right: 0 !important; } .desktop_bg_four td { background-image:url(https://gallery.mailchimp.com/d0f8d3cf5bde143e58a9700c5/images/a8bae3b9-4ca2-460e-a192-d2f738060710.png)
-      !important; height:223px !important; background-repeat:no-repeat !important; } .goupil__titles{ font-size:11px !important; line-height:17px !important; color:#ffffff; width:176px !important; padding:0px 8px !important; margin-bottom:100px !important;
-      font-weight:bold; } ._bigbely_text td { padding-top:23px !important; } ._metalco_text td { padding-top:5px !important; } .fb {padding-left:91px !important; padding-right:15px !important;} .uls-text td { padding:0 12px !important; padding-left:0
-      !important; } .uls-text._last td { padding-top:20px !important; } a[x-apple-data-detectors]{ color:inherit !important; text-decoration:none !important; font-size:inherit !important; font-family:inherit !important; font-weight:inherit !important;
-      line-height:inherit !important; } .blue-blocks div, .blue-blocks td{ width:138px !important; padding:0 !important; } .blue-mobile-img img{ padding-left:0px !important; } .size25._bigLineHeight { line-height:31px !important; } .partners__title div
-      { font-size: 10px !important; line-height: 12px !important; } .partners__title._second div { padding-top:25px !important; } .partners__title._third div { padding-top:25px !important; } .partners__desc div { font-size: 10px !important; line-height:
-      12px !important; } .partners__desc._first div { padding-top:0 !important; } .last-padding-title div { font-size:10px !important; line-height:12px !important; } .icon{padding:0px; padding-top:8px !important;padding-bottom:8px !important;} .section24-img
-      img { padding:12px 0 !important; } .button-prev-title.second-prev td{ padding-bottom:1px !important; } .button-prev-title.prev-prev td{ padding-top:3px !important; } .size25._total { line-height:100% !important; } .blue-blocks._last div div { padding:10px
-      0 !important; } .desktop-img img{ display:none !important; } .mobile-img img{ display:block !important; } }
+      padding-right: 0px !important; padding-bottom: 10px !important; } .desktop_bg_four td { background-image:url(https://gallery.mailchimp.com/d0f8d3cf5bde143e58a9700c5/images/a8bae3b9-4ca2-460e-a192-d2f738060710.png) !important; height:223px !important;
+      background-repeat:no-repeat !important; } .goupil__titles{ font-size:11px !important; line-height:17px !important; color:#ffffff; width:176px !important; padding:0px 8px !important; margin-bottom:100px !important; font-weight:bold; } ._bigbely_text
+      td { padding-top:23px !important; } ._metalco_text td { padding-top:5px !important; } .uls-text td { padding:0 12px !important; padding-left:0 !important; } .uls-text._last td { padding-top:20px !important; } a[x-apple-data-detectors]{ color:inherit
+      !important; text-decoration:none !important; font-size:inherit !important; font-family:inherit !important; font-weight:inherit !important; line-height:inherit !important; } .blue-blocks div, .blue-blocks td{ width:138px !important; padding:0 !important;
+      } .blue-mobile-img img{ padding-left:0px !important; } .size25._bigLineHeight { line-height:31px !important; } .partners__title div { font-size: 10px !important; line-height: 12px !important; } .partners__title._second div { padding-top:25px !important;
+      } .partners__title._third div { padding-top:25px !important; } .partners__desc div { font-size: 10px !important; line-height: 12px !important; } .partners__desc._first div { padding-top:0 !important; } .last-padding-title div { font-size:10px !important;
+      line-height:12px !important; } .section24-img img { padding:12px 0 !important; } .button-prev-title.second-prev td{ padding-bottom:1px !important; } .button-prev-title.prev-prev td{ padding-top:3px !important; } .size25._total { line-height:100%
+      !important; } .blue-blocks._last div div { padding:10px 0 !important; } .desktop-img img{ display:none !important; } .mobile-img img{ display:block !important; } }
 
     </mj-style>
   </mj-head>
   <mj-body>
     <mj-container>
-      <mj-wrapper css-class="white-bg" padding="0px 18px">
-        <mj-hero mode="fixed-height" css-class="desktop_bg_first" padding="0px 0px">
-          <mj-hero-content width="100%">
+      <mj-wrapper css-class="white-bg" padding="0px 0px">
+        <mj-section padding="0" css-class="desktop">
+          <mj-column>
+            <mj-image padding="0" src="https://gallery.mailchimp.com/d0f8d3cf5bde143e58a9700c5/images/3f6adcac-2f52-41c2-bf00-3caf43676daa.jpg" />
+          </mj-column>
+        </mj-section>
+        <mj-section padding="0" css-class="mobile">
+          <mj-column>
+            <mj-image padding="0" width="339" height="241" src="https://gallery.mailchimp.com/d0f8d3cf5bde143e58a9700c5/images/3f6adcac-2f52-41c2-bf00-3caf43676daa.jpg" />
+          </mj-column>
+        </mj-section>
 
-            <mj-text color="#ffffff" font-family="Verdana" align="left" padding="0" css-class="desktop_bg_first_text">
-              <div class="innovative__titles">
-                <div class="innovative__title">Здравствуйте! Это компания <br> Tau Innovative Solutions,</div>
-                <div class="names__title">и мы её акционеры — <br> Рустем Басенов и Руслан Жемков</div>
-              </div>
-            </mj-text>
 
-          </mj-hero-content>
-        </mj-hero>
 
         <mj-section padding="0" css-class="section24" background-color="white">
           <mj-column>
@@ -84,21 +83,17 @@
           </mj-column>
         </mj-section>
 
-
-
-        <mj-section background-color="white" padding="0">
-          <mj-group>
-            <mj-column width="48%">
-              <mj-image padding="0" css-class="desktop-img" width="280" height="295" src="https://gallery.mailchimp.com/d0f8d3cf5bde143e58a9700c5/images/a9f964ea-9913-4ff2-8b41-536492667487.png" />
-              <mj-image padding="0" css-class="mobile-img" width="170" height="179" src="https://gallery.mailchimp.com/d0f8d3cf5bde143e58a9700c5/images/a9f964ea-9913-4ff2-8b41-536492667487.png" />
-            </mj-column>
-            <mj-column width="48%">
-              <mj-text padding="0" padding-left="15px" font-family="Verdana" css-class="image-mega-title" text-transform="uppercase" font-weight="bold" color="#000000">
-                Ведь <br> нам не всё равно
-              </mj-text>
-            </mj-column>
-          </mj-group>
+        <mj-section padding="0">
+          <mj-column>
+            <mj-image padding="0" src="https://gallery.mailchimp.com/d0f8d3cf5bde143e58a9700c5/images/f6f7ff0d-4f98-400d-bec7-3dedb05c7776.jpg" />
+          </mj-column>
         </mj-section>
+
+
+
+
+
+
 
         <mj-section background-color="white" css-class="section24">
           <mj-column>
@@ -127,18 +122,17 @@
           </mj-column>
         </mj-section>
 
-        <mj-hero mode="fixed-height" css-class="desktop_bg_second" padding="0px 0px">
-          <mj-hero-content width="100%">
 
-            <mj-text color="#ffffff" font-family="Verdana" align="left" padding="0" css-class="desktop_bg_second_text">
-              <div class="expo__titles">
-                <div class="expo__title _millions">4 000 000</div>
-                <div class="humans__title">человек посетили ЭКСПО за все время</div>
-              </div>
-            </mj-text>
-
-          </mj-hero-content>
-        </mj-hero>
+        <mj-section padding="0" css-class="desktop">
+          <mj-column>
+            <mj-image padding="0" src="https://gallery.mailchimp.com/d0f8d3cf5bde143e58a9700c5/images/d2799908-da90-4370-bea3-8690328b5797.jpg" />
+          </mj-column>
+        </mj-section>
+        <mj-section padding="0" css-class="mobile">
+          <mj-column>
+            <mj-image padding="0" width="339" height="225" src="https://gallery.mailchimp.com/d0f8d3cf5bde143e58a9700c5/images/d2799908-da90-4370-bea3-8690328b5797.jpg" />
+          </mj-column>
+        </mj-section>
         <mj-section padding="0" css-class="section24">
           <mj-column>
             <mj-text color="#000000" css-class="size15" font-size="15px" line-height="24px" padding-left="0" font-family="Verdana">
@@ -155,6 +149,9 @@
             </mj-text>
           </mj-column>
         </mj-section>
+
+
+
 
         <mj-section padding="0" background-color="white">
           <mj-group>
@@ -203,14 +200,14 @@
         <mj-section padding="0" css-class="section24" background-color="white">
           <mj-column border="5px solid #23B0E5" width="80%">
             <mj-text align="center" color="#000000" css-class="size25" font-weight="bold" padding="0" padding-right="0" font-family="Verdana">
-              И всё это на глазах <br> у десятков тысяч туристов
+              И всё это на глазах <br /> у десятков тысяч туристов
             </mj-text>
           </mj-column>
         </mj-section>
 
         <mj-section padding="0">
           <mj-column>
-            <mj-image padding="0" src="https://gallery.mailchimp.com/d0f8d3cf5bde143e58a9700c5/images/54084146-8cca-490e-bb7a-84d468409886.png" />
+            <mj-image padding="0" src="https://gallery.mailchimp.com/d0f8d3cf5bde143e58a9700c5/images/18217fc7-fdba-41a9-a6c3-1a26718027ab.jpg" />
           </mj-column>
         </mj-section>
         <mj-section background-color="white" padding="0" css-class="section24">
@@ -220,66 +217,25 @@
             </mj-text>
           </mj-column>
         </mj-section>
-        <mj-section background-color="white" padding="0" padding-top="24px">
+        <mj-section background-color="white" padding="0" css-class="section24">
           <mj-column>
             <mj-text color="#000000" css-class="size15" padding="0" padding-bottom="0" font-family="Verdana">
               Сначала мы рассчитали объём мусора, который будет на выставке и подобрали для работы с ним лучшее оборудование. Распределили на карте, где всё это будет, установили и запустили в работу.
             </mj-text>
           </mj-column>
         </mj-section>
-        <mj-section background-color="white" padding="0px" css-class="section24">
-          <mj-group>
-            <mj-column width="50%">
-              <mj-text padding="10px 20px" align="center" css-class="size15 blue-blocks" font-size="15px" font-family="Verdana">
-                <div style="background-color:rgba(35, 176, 229, 0.75);padding:10px 15px;">умные урны <br> для  раздельного сбора</div>
-              </mj-text>
-              <mj-spacer css-class="blue-spacer" />
-              <mj-text padding="10px 20px" align="center" css-class="size15 blue-blocks" font-size="15px" font-family="Verdana">
-                <div style="background-color:rgba(35, 176, 229, 0.75);padding:10px 15px;">мобильные <br> пресс-контейнеры</div>
-              </mj-text>
-              <mj-spacer css-class="blue-spacer" />
-              <mj-text padding="10px 20px" align="center" css-class="size15 blue-blocks _last" font-size="15px" font-family="Verdana">
-                <div style="background-color:rgba(35, 176, 229, 0.75);padding:10px 15px !important;">мусоропроводы</div>
-              </mj-text>
 
-            </mj-column>
-            <mj-column width="50%">
-              <mj-text padding="10px 20px" align="center" css-class="size15 blue-blocks" font-size="15px" font-family="Verdana">
-                <div style="background-color:rgba(35, 176, 229, 0.75);padding:10px 15px">контейнеры <br> для опасных отходов</div>
-              </mj-text>
-              <mj-spacer css-class="blue-spacer" />
+        <mj-section background-color="white" padding="0px" css-class="desktop">
+          <mj-column>
+            <mj-image padding="0" src="https://gallery.mailchimp.com/d0f8d3cf5bde143e58a9700c5/images/169fdcc9-3892-43f7-8acd-5e7b02da7d66.png" />
+          </mj-column>
 
-              <mj-text padding="10px 20px" align="center" css-class="size15 blue-blocks" font-size="15px" font-family="Verdana">
-                <div style="background-color:rgba(35, 176, 229, 0.75);padding:10px 15px">объёмные урны для раздельного сбора </div>
-              </mj-text>
-              <mj-spacer css-class="blue-spacer" />
-
-
-              <mj-text padding="10px 20px" align="center" css-class="size15 blue-blocks _last" font-size="15px" font-family="Verdana">
-                <div style="background-color:rgba(35, 176, 229, 0.75);padding:10px 15px !important">электрокары</div>
-              </mj-text>
-            </mj-column>
-          </mj-group>
         </mj-section>
-        <mj-section background-color="white" css-class="desktop" padding="0">
-          <mj-group>
-            <mj-column>
-              <mj-image width="242" height="149px" padding="0" src="https://gallery.mailchimp.com/d0f8d3cf5bde143e58a9700c5/images/3728dd6e-c12d-4be1-b0fe-04c3b8775f10.png" />
-            </mj-column>
-            <mj-column>
-              <mj-image width="242px" height="149px" padding="0" src="https://gallery.mailchimp.com/d0f8d3cf5bde143e58a9700c5/images/a52b15c0-f3cf-479c-addd-c69730915792.png" />
-            </mj-column>
-          </mj-group>
-        </mj-section>
-        <mj-section background-color="white" css-class="mobile" padding="0">
-          <mj-group>
-            <mj-column>
-              <mj-image width="138px" css-class="blue-mobile-img" height="90px" padding="0" src="https://gallery.mailchimp.com/d0f8d3cf5bde143e58a9700c5/images/5b0e6793-4c87-465d-8850-0f6471dcf387.png" />
-            </mj-column>
-            <mj-column>
-              <mj-image width="138px" css-class="blue-mobile-img" height="90px" padding="0" src="https://gallery.mailchimp.com/d0f8d3cf5bde143e58a9700c5/images/257d9e08-34a7-481f-ae12-e8d6c82474e8.png" />
-            </mj-column>
-          </mj-group>
+        <mj-section background-color="white" padding="0px" css-class="mobile">
+          <mj-column>
+            <mj-image padding="0" src="https://gallery.mailchimp.com/d0f8d3cf5bde143e58a9700c5/images/89b6f0b5-77f0-4062-9f5d-4ee1044854a4.png" />
+          </mj-column>
+
         </mj-section>
 
         <mj-section background-color="white" css-class="section24" padding="0">
@@ -304,23 +260,21 @@
         <mj-section padding="0" css-class="section24" background-color="white">
           <mj-column border="5px solid #23B0E5" width="90%">
             <mj-text align="center" color="#000000" css-class="size25 _leftText" font-weight="bold" padding="0" padding-right="0" font-family="Verdana">
-              В среднем в 10 раз больше мусора помещается <br> в урну Bigbelly Solar, <br> в сравнении с обычной урной
+              В среднем в 10 раз больше мусора помещается <br /> в урну Bigbelly Solar, <br /> в сравнении с обычной урной
             </mj-text>
           </mj-column>
         </mj-section>
 
-        <mj-hero mode="fixed-height" css-class="desktop_bg_third" padding="0px 0px">
-          <mj-hero-content width="100%">
-
-            <mj-text color="#ffffff" font-family="Verdana" align="left" padding="0" padding-bottom="0" css-class="desktop_bg_third_text">
-              <div class="statistic__titles">
-                Ещё в них установлен специальный датчик, который в реальном времени показывает уровень заполненности и отправляет эту информацию в единую систему мониторинга. Так наши сотрудники видели, какие урны заполняются быстрее, и эффективнее выстраивали маршруты,
-                чтобы не отправлять работников бродить по всей территории выставки и проверять их все подряд.
-              </div>
-            </mj-text>
-
-          </mj-hero-content>
-        </mj-hero>
+        <mj-section padding="0" css-class="desktop">
+          <mj-column>
+            <mj-image padding="0" src="https://gallery.mailchimp.com/d0f8d3cf5bde143e58a9700c5/images/3e2c8408-abb6-454a-8f50-cc4a810cced7.jpg" />
+          </mj-column>
+        </mj-section>
+        <mj-section padding="0" css-class="mobile">
+          <mj-column>
+            <mj-image padding="0" width="339" height="284" src="https://gallery.mailchimp.com/d0f8d3cf5bde143e58a9700c5/images/3e2c8408-abb6-454a-8f50-cc4a810cced7.jpg" />
+          </mj-column>
+        </mj-section>
 
         <mj-section background-color="white" padding="0" css-class="section24">
           <mj-column>
@@ -341,7 +295,7 @@
         <mj-section background-color="white" padding="0">
           <mj-column>
             <mj-text color="#000000" css-class="size25 top12px" padding="0" align="center" font-weight="bold" font-family="Verdana">
-              станция Bigbelly была установлена <br> на территории ЭКСПО
+              станция Bigbelly была установлена <br /> на территории ЭКСПО
             </mj-text>
           </mj-column>
         </mj-section>
@@ -373,18 +327,17 @@
             </mj-column>
           </mj-group>
         </mj-section>
+        <mj-section padding="0" css-class="desktop">
+          <mj-column>
+            <mj-image padding="0" src="https://gallery.mailchimp.com/d0f8d3cf5bde143e58a9700c5/images/b4821385-7940-4edb-bd71-9ec759aeb130.jpg" />
+          </mj-column>
+        </mj-section>
+        <mj-section padding="0" css-class="mobile">
+          <mj-column>
+            <mj-image padding="0" width="339" height="233" src="https://gallery.mailchimp.com/d0f8d3cf5bde143e58a9700c5/images/b4821385-7940-4edb-bd71-9ec759aeb130.jpg" />
+          </mj-column>
+        </mj-section>
 
-        <mj-hero mode="fixed-height" css-class="desktop_bg_four" padding="0px 0px">
-          <mj-hero-content width="100%">
-
-            <mj-text color="#ffffff" font-family="Verdana" align="left" padding="0" css-class="desktop_bg_four_text">
-              <div class="goupil__titles">
-                Для сбора и временной перевозки отходов мы использовали специальную технику французской компании Goupil
-              </div>
-            </mj-text>
-
-          </mj-hero-content>
-        </mj-hero>
 
         <mj-section background-color="white" padding="0" css-class="section24">
           <mj-column>
@@ -439,7 +392,7 @@
         <mj-section background-color="white" css-class="section24">
           <mj-column>
             <mj-text color="#23B0E5" letter-spacing="5%" text-transform="uppercase" css-class="size25" padding="0" align="center" font-family="Verdana">
-              <b> За время работы выставки <br> мы вывезли 17 759 <br> кубических метров мусора</b>
+              <b> За время работы выставки <br /> мы вывезли 17 759 <br /> кубических метров мусора</b>
             </mj-text>
           </mj-column>
         </mj-section>
@@ -463,8 +416,7 @@
 
         <mj-section padding="0" background-color="white">
           <mj-column>
-            <mj-image src="https://gallery.mailchimp.com/d0f8d3cf5bde143e58a9700c5/images/ef16bda1-a129-45e0-8e97-d34d268d680d.png" padding="0" />
-
+            <mj-image src="https://gallery.mailchimp.com/d0f8d3cf5bde143e58a9700c5/images/0ebe3660-fbb2-46fd-a4fd-3a19d9585845.jpg" padding="0" />
           </mj-column>
         </mj-section>
         <mj-section background-color="white" padding="0" css-class="section24">
@@ -490,7 +442,7 @@
             <mj-column>
               <mj-spacer height="110px" />
               <mj-text color="#23B0E5" padding-left="0" padding-right="0" css-class="size25 _total" align="center" font-family="Verdana">
-                <b>Всего мы собрали 14 170 <br> кубических метров строительного мусора </b>
+                <b>Всего мы собрали 14 170 <br /> кубических метров строительного мусора </b>
               </mj-text>
             </mj-column>
           </mj-group>
@@ -506,7 +458,7 @@
             <mj-column>
               <mj-spacer height="60px" />
               <mj-text color="#23B0E5" padding-left="0" padding-right="0" css-class="size25 _bigLineHeight" align="center" font-family="Verdana">
-                <b>Всего мы собрали 14 170 <br> кубических метров строительного мусора </b>
+                <b>Всего мы собрали 14 170 <br /> кубических метров строительного мусора </b>
               </mj-text>
             </mj-column>
           </mj-group>
@@ -524,7 +476,7 @@
           <mj-group>
             <mj-column width="35%">
               <mj-text css-class="partners__title _first" align="center" padding-top="0px" font-family="Verdana" padding-left="0px" color="#000000" font-weight="bold">
-                Rida <br> Construction
+                Rida <br /> Construction
               </mj-text>
             </mj-column>
             <mj-column width="65%">
@@ -544,12 +496,12 @@
             </mj-column>
             <mj-column width="35%">
               <mj-text align="center" font-family="Verdana" css-class="partners__title _third" color="#000000" font-weight="bold">
-                ФНД <br> «Управление <br> отходами»
+                ФНД <br /> «Управление <br /> отходами»
               </mj-text>
             </mj-column>
             <mj-column width="65%" css-class="section12">
               <mj-text align="left" color="#000000" css-class="partners__desc _third" padding-top="10px" padding="0" padding-right="0" font-family="Verdana">
-                Отвечали за процесс сбора мусора со всей территории выставки, а также последующим <br> сбором из зон хранения и вывозом за пределы выставки
+                Отвечали за процесс сбора мусора со всей территории выставки, а также последующим <br /> сбором из зон хранения и вывозом за пределы выставки
               </mj-text>
             </mj-column>
             <mj-column width="35%">
@@ -625,18 +577,18 @@
                 Ждём ваших писем и звонков!
               </mj-text>
               <mj-text padding-left="0" color="#000" css-class="last-padding-title" padding-top="0px" align="left" font-family="Verdana">
-                Электронная почта <br> <b>info@tausolutions.kz</b>
+                Электронная почта <br /> <b>info@tausolutions.kz</b>
               </mj-text>
               <mj-text padding-left="0" color="#000" css-class="last-padding-title" padding-top="0px" align="left" font-family="Verdana">
-                Телефон <br> <b>+7 (727) 354-15-85</b>
+                Телефон <br /> <b>+7 (727) 354-15-85</b>
               </mj-text>
             </mj-column>
             <mj-column css-class="soc__block-right">
               <mj-text color="#000000" padding-left="0" font-weight="bold" css-class="last-padding-title" padding-top="0px" align="center" font-family="Verdana">
-                И подписывайтесь <br> на наши страницы
+                И подписывайтесь <br /> на наши страницы
               </mj-text>
-              <mj-image css-class="icon fb" width="44" href="https://www.facebook.com/TauInnovativeSolutions" src="https://gallery.mailchimp.com/e92ea81d2be99d544420d5949/images/bcf317b6-18da-4c00-ab9c-49375fd34d07.png" />
-              <mj-image css-class="icon gram" width="53" href="https://www.instagram.com/tau_solutions/" src="https://gallery.mailchimp.com/e92ea81d2be99d544420d5949/images/a81f5f20-2a93-42d7-be19-34eb379c89d1.png" />
+              <mj-image css-class="icon gram" width="53" height="45" href="https://www.instagram.com/tau_solutions/" src="https://gallery.mailchimp.com/e92ea81d2be99d544420d5949/images/a81f5f20-2a93-42d7-be19-34eb379c89d1.png" />
+              <mj-image css-class="icon fb" width="45" height="45" href="https://www.facebook.com/TauInnovativeSolutions" src="https://gallery.mailchimp.com/e92ea81d2be99d544420d5949/images/bcf317b6-18da-4c00-ab9c-49375fd34d07.png" />
               <mj-text color="#fff" padding-left="0" font-weight="bold" css-class="last-padding-title" font-size="15px" padding-top="5px" align="center" font-family="Verdana">
                 <a href="http://www.tausolutions.kz">tausolutions.kz</a>
               </mj-text>
@@ -646,7 +598,7 @@
         <mj-section background-color="white" padding="0" css-class="custom__space">
           <mj-column>
             <mj-text color="#000000" font-weight="bold" text-transform="uppercase" padding-bottom="0" align="left" css-class="size25" padding="0" font-family="Verdana">
-              Узнайте подробнее <br> о наших технологиях
+              Узнайте подробнее <br /> о наших технологиях
             </mj-text>
           </mj-column>
         </mj-section>
@@ -692,13 +644,9 @@
             <mj-column width="50%">
               <mj-image padding-left="0" width="96" href="http://bigbellysolar.kz" height="26" src="https://gallery.mailchimp.com/d0f8d3cf5bde143e58a9700c5/images/1dabc317-fdd3-4151-b28a-4310b9e19b8f.png" />
 
-              </mj-image>
               <mj-image padding-left="0" width="96" css-class="section24-img" href="http://goupil.kz" height="26" src="https://gallery.mailchimp.com/d0f8d3cf5bde143e58a9700c5/images/68e51f5c-7ec6-4e61-9cc5-34f5bda46735.png" />
 
-              </mj-image>
               <mj-image padding-left="0" width="96" href="http://www.metalco.it" height="26" src="https://gallery.mailchimp.com/d0f8d3cf5bde143e58a9700c5/images/1dbc1596-8c6a-42e5-bf05-c41d5990dcb4.png" />
-
-              </mj-image>
             </mj-column>
           </mj-group>
         </mj-section>
