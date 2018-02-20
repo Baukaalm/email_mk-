@@ -1,13 +1,13 @@
 <mjml>
   <mj-head>
-    <mj-title>Tau Innovations Russian</mj-title>
+    <mj-title>Tau Innovations English</mj-title>
     <mj-attributes>
       <mj-all font-family="Verdana" />
       <mj-section mj-class="wrap" />
-    </mj-attributes>
-    <mj-style inline="inline">
+    </mj-attributes> 
+    <mj-style inline="inline"> 
 
-      .icon{float:right;padding:0px; padding-top:18px;padding-bottom:18px;} icon:after {content:'';clear:both;display:table;} .fb {padding-left:10px; padding-right:0px;} .gram {padding-right:0px} .gram td {padding-left:9px !important;} .desktop_bg_first td
+      .icon{float:right;padding:0px; padding-top:18px;padding-bottom:18px;} icon:after {content:'';clear:both;display:table;} .fb {padding-left:0px;  padding-right:0px;} .gram {padding-right:0px} .gram td {padding-left:9px !important;} .desktop_bg_first td
       { background-image:url(https://gallery.mailchimp.com/d0f8d3cf5bde143e58a9700c5/images/5a909d59-ee01-4ed7-ae6f-070b53de588b.png); height:401px !important; position:relative; background-repeat:no-repeat !important; } .desktop_bg_second td { background-image:url(https://gallery.mailchimp.com/d0f8d3cf5bde143e58a9700c5/images/7b9299ec-13f8-4a7e-87e3-d781f8315ab8.png);
       height:375px !important; position:relative; background-repeat:no-repeat !important; background-size:100% 100% !important; } .last-block { padding:24px 0 !important; } .section24-img img { padding:24px 0 !important; } .last-padding-block { padding:17px
       30px !important; background-color:rgba(35, 176, 229, 0.5); } td { padding-top:0 !important; padding-bottom:0 !important; } .custom__space { padding-top:24px !important; padding-bottom:6px !important; } .desktop_bg_third td { background-image:url(https://gallery.mailchimp.com/d0f8d3cf5bde143e58a9700c5/images/03351463-17e4-4b33-a985-682df55cb6a6.png);
@@ -17,10 +17,10 @@
       !important; } .btm12px div{ padding-bottom:6px !important; } .size25._leftText div { text-align:left !important; padding:0 18px !important; } .innovative__titles { background-color:rgba(35,176,229,0.75); font-family:"Verdana"; width:502px; margin-top:
       251px !important; } .desktop-img img{ display:block !important; } .mobile-img img{ display:none !important; } .innovative__title { font-size:22px; line-height:33px; padding-left:17px; padding-top:15px; padding-right:0; } .names__title { font-size:17px;
       line-height:27px; padding-left:17px; padding-bottom:15px; } .expo__titles { background-color:rgba(35,176,229,0.75); text-align:center; } .expo__title { font-size:75px; line-height: 90px; font-weight:bold; } .humans__title { font-size:25px; line-height:
-      35px !important; padding:0 100px; padding-bottom:10px; } .size15 div { font-size:15px !important; line-height:24px !important; padding:0 !important; } .section24 { padding:24px 0 !important; } .section12btm{ padding-bottom:6px !important; } .section12
-      { padding: 12px 0 !important; } .size25 div{ font-size:25px !important; line-height:35px !important; } .size48 div{ line-height:100% !important; font-size:45px !important; } .size35 div { line-height:43px !important; font-size:35px !important; }
-      .countUl div { font-size: 45px !important; line-height: 53px !important; padding-right:20px !important; padding-top:10px !important; } .bigText div { font-size: 45px !important; line-height: 53px !important; } .countUl.second div { padding-top:20px
-      !important; } .countUl.third div { padding-top:20px !important; } .size48 td { padding:0px 0px !important; } .desktop { display:block !important; } .mobile { display:none !important; } .button-prev-title td { padding:18px 0px!important; } .button-prev-title-last
+      35px !important; padding:0 100px; padding-bottom:10px; } .size15 div { font-size:15px !important; line-height:24px !important; padding:0 !important; } .size15 tr { font-size:15px !important; line-height:24px !important;} .size15 div { font-size:15px !important; line-height:24px !important; } .section24 { padding:24px 0 !important; } .section12btm{ padding-bottom:6px !important; } .section12
+      { padding: 12px 0 !important; } .size25 div{ font-size:23px !important; line-height:35px !important; } .size48 div{ line-height:100% !important; font-size:40px !important; } .size35 div { line-height:43px !important; font-size:35px !important; }
+      .countUl div { font-size: 45px !important; line-height: 53px !important; padding-right:20px !important; padding-top:10px !important; } .bigText div { font-size: 42px !important; line-height: 53px !important; } .countUl.second div { padding-top:20px
+      !important; } .countUl.third div { padding-top:10px !important; } .size48 td { padding:0px 0px !important; } .desktop { display:block !important; } .mobile { display:none !important; } .button-prev-title td { padding:18px 0px!important; } .button-prev-title-last
       td { padding-top:5px !important; } .first-prev td { padding-top:15px !important; } .size25btn{ font-size:24px !important; line-height:35px !important; } .blue-spacer div { line-height:24px !important; } .spacer24 div { line-height:24px !important;
       } .partners__desc div { font-size: 15px !important; line-height: 18px !important; } .partners__desc._first div { padding-top:10px !important; } .partners__desc._second div { padding-top:12px !important; } .partners__title td { padding-right: 30px
       !important; padding-left:0 !important; } .partners__title div { font-size: 15px !important; line-height: 18px !important; } .partners__title._second div { padding-top:32px !important; } .partners__title._third div { padding-top:12px !important;
@@ -39,7 +39,7 @@
       !important; line-height:15px !important; } ._ten td { padding:10px 10px !important; padding-bottom:0 !important; } .size25 div{ font-size:15px !important; line-height:24px !important; } .size25btn{ font-size:16px !important; line-height:30px !important;
       } .size25 td{ padding:0 !important; } div[style*="padding:24px 0;"] { padding:12px 0 !important; } div[style*="padding-top:24px;"] { padding-top:12px 0 !important; } div[style*="padding-bottom:24px;"] { padding-bottom:12px 0 !important; } div[style*="font-size:75px;"]
       { font-size:45px !important; line-height:59px !important; } div[style*="width:281.53px;"] { width:170px !important; } div[style*="line-height:35px;"] { line-height:25px !important; } .image-mega-title div { font-size: 30px !important; line-height:
-      35px !important; } .expo-title div { font-size:25px !important; line-height:35px !important; } .size15 div { font-size:10px !important; line-height:17px !important; } .size15 td { padding-right:0 !important; } .size75 div { font-size: 50px !important;
+      35px !important; } .expo-title div { font-size:25px !important; line-height:35px !important; } .size15 div { font-size:10px !important; line-height:15px !important; } .size15 td { padding-right:0 !important; } .size75 div { font-size: 50px !important;
       line-height: 59px !important; } .desktop_bg_first td { background-image:url(https://gallery.mailchimp.com/e92ea81d2be99d544420d5949/images/bda8fcb4-153d-45cb-a01d-f894015ac7d1.png) !important; height:241px !important; width:339px !important; background-position:center
       center !important; } .innovative__titles { width:85% !important; width: 85% !important; height: 100px !important; margin-top: 140px !important; } .innovative__title { font-size:14px !important; line-height:22px !important; padding-left:8px !important;
       padding-top:10px !important; } .last-block { padding:12px 0 !important; } .names__title { font-size:11px !important; line-height:18px !important; padding-left:10px !important; padding-bottom:10px !important; } .section24 { padding:12px 0 !important;
@@ -57,25 +57,16 @@
       !important; } .blue-blocks._last div div { padding:10px 0 !important; } .desktop-img img{ display:none !important; } .mobile-img img{ display:block !important; } }
 
     </mj-style>
+
   </mj-head>
   <mj-body>
     <mj-container>
       <mj-wrapper css-class="white-bg" padding="0px 0px">
-        <mj-section padding="0" css-class="desktop">
+        <mj-section padding="0">
           <mj-column>
             <mj-image
               padding="0"
-              src="https://gallery.mailchimp.com/d0f8d3cf5bde143e58a9700c5/images/3f6adcac-2f52-41c2-bf00-3caf43676daa.jpg"
-            />
-          </mj-column>
-        </mj-section>
-        <mj-section padding="0" css-class="mobile">
-          <mj-column>
-            <mj-image
-              padding="0"
-              width="339"
-              height="241"
-              src="https://gallery.mailchimp.com/d0f8d3cf5bde143e58a9700c5/images/3f6adcac-2f52-41c2-bf00-3caf43676daa.jpg"
+              src="https://gallery.mailchimp.com/d0f8d3cf5bde143e58a9700c5/images/ea566571-c460-4a6f-9e5b-5cc552850d13.jpg"
             />
           </mj-column>
         </mj-section>
@@ -89,11 +80,11 @@
               line-height="24px"
               padding="0"
             >
-              Наша компания специализируется на поиске и внедрении лучших
-              решений в сфере управления отходами и энергоэффективных технологий
-              в строительстве. Мы помогаем оптимизировать процесс работы
-              с мусором, чтобы снизить нагрузку с компаний и сделать экологию
-              в стране лучше.
+              We focus on finding and integrating best waste management
+              practices and energy-saving technologies in construction. We help
+              to structure and streamline waste management process to optimise
+              cost expenditure and improve the environmental situation
+              in Kazakhstan.
             </mj-text>
           </mj-column>
         </mj-section>
@@ -102,7 +93,7 @@
           <mj-column>
             <mj-image
               padding="0"
-              src="https://gallery.mailchimp.com/d0f8d3cf5bde143e58a9700c5/images/f6f7ff0d-4f98-400d-bec7-3dedb05c7776.jpg"
+              src="https://gallery.mailchimp.com/d0f8d3cf5bde143e58a9700c5/images/6352c6c2-6e10-4ef7-91fa-24ea7318b45b.jpg"
             />
           </mj-column>
         </mj-section>
@@ -110,11 +101,11 @@
         <mj-section background-color="white" css-class="section24">
           <mj-column>
             <mj-text color="#000000" css-class="size15" padding="0">
-              На рынке Казахстана мы работаем 3 года, и сегодня расскажем о том,
-              чем занимались этим летом. Это письмо о проекте, которым
-              мы гордимся — сбор, удаление, сортировка, временное хранение
-              и переработка твёрдых бытовых отходов с территории международной
-              выставки ЭКСПО-2017.
+              We've been operating for three years in Kazakhstan, and today we
+              would like to tell you what we have accomplished this summer. This
+              a story about the project we are proud to share with you. It's
+              about a collection, recycling, temporary storage and hauling of
+              solid waste during Astana EXPO-2017.
             </mj-text>
           </mj-column>
         </mj-section>
@@ -134,7 +125,7 @@
               font-family="Verdana"
               letter-spacing="5%"
             >
-              Предыстория
+              Background
             </mj-text>
             <mj-text
               color="#000000"
@@ -142,9 +133,9 @@
               padding="0"
               font-family="Verdana"
             >
-              Летом в Астане прошла международная выставка ЭКСПО-2017. Это
-              важное событие для всей страны, которое повлияло на её имидж
-              и экономику.
+              International Specialised Exhibition EXPO-2017 was held in Astana
+              this summer. It is the principal event for Kazakhstan with its
+              international image and future economic development at stake.
             </mj-text>
           </mj-column>
         </mj-section>
@@ -156,33 +147,25 @@
               padding-left="0"
               font-family="Verdana"
             >
-              Впервые столицу посетило так много зарубежных гостей. Каждый день
-              на выставку приходили 50 000 человек, в пиковые дни доходило
-              до 110 000. Для сравнения, в ледовый дворец «Барыс-Арена»
-              помещается 11 578 человек, то есть в пиковые дни мы работали
-              с аудиторией в 10 «Барыс-Арен»!
+              It was the first time, so many international and regional guests
+              came to visit Astana. During offpeak days around 50,000 people
+              attended the exhibition, reaching up to 110,000 people during
+              weekends and holidays. To compare, Barys-Arena Ice Stadium
+              accommodates 11,578 people, meaning that we serviced ten fully
+              occupied stadiums per day!
             </mj-text>
           </mj-column>
         </mj-section>
 
-        <mj-section padding="0" css-class="desktop">
+        <mj-section padding="0" >
           <mj-column>
             <mj-image
               padding="0"
-              src="https://gallery.mailchimp.com/d0f8d3cf5bde143e58a9700c5/images/d2799908-da90-4370-bea3-8690328b5797.jpg"
+              src="https://gallery.mailchimp.com/d0f8d3cf5bde143e58a9700c5/images/073a31b3-87a4-4db3-94d3-a5d52207db04.jpg"
             />
           </mj-column>
         </mj-section>
-        <mj-section padding="0" css-class="mobile">
-          <mj-column>
-            <mj-image
-              padding="0"
-              width="339"
-              height="225"
-              src="https://gallery.mailchimp.com/d0f8d3cf5bde143e58a9700c5/images/d2799908-da90-4370-bea3-8690328b5797.jpg"
-            />
-          </mj-column>
-        </mj-section>
+
         <mj-section padding="0" css-class="section24">
           <mj-column>
             <mj-text
@@ -193,13 +176,13 @@
               padding-left="0"
               font-family="Verdana"
             >
-              Организаторам необходимо было максимально подготовить город
-              к их приезду. И многие системы нужно было не только проверить,
-              но и улучшить, потому что они не были рассчитаны на такое
-              количество людей. К таким, например, относятся транспортная
-              система, жильё, подготовка обслуживающего персонала, а также сбор
-              мусора. Если бы руководство ЭКСПО не подумало об этом вопросе,
-              страну ждала бы имиджевая катастрофа.
+              Event planners had to go full throttle to prepare the city and its
+              infrastructure for the arrival of our guests. Many systems had
+              to be tested and further improved as they were not initially
+              designed for the predicted number of visitors, including
+              transportation, accommodation, services and waste management.
+              If only one of these issues was overlooked, Kazakhstan could have
+              potentially lost its face.
             </mj-text>
           </mj-column>
         </mj-section>
@@ -214,7 +197,7 @@
               font-family="Verdana"
               letter-spacing="5%"
             >
-              Что бы произошло
+              What would have happened
             </mj-text>
           </mj-column>
         </mj-section>
@@ -244,8 +227,9 @@
                 padding="0"
                 font-family="Verdana"
               >
-                За 3 месяца коммунальные службы ЭКСПО собрали бы столько мусора,
-                сколько собирают во всей Астане за аналогичный период.
+                EXPO utility services would have been confronted with
+                an enormous task of dealing with the same amount of waste as the
+                whole Astana city produces during a similar period.
               </mj-text>
             </mj-column>
           </mj-group>
@@ -276,10 +260,11 @@
                 padding="0"
                 font-family="Verdana"
               >
-                Стандартные урны, которые ставят в городе, заполнились бы
-                в течение часа после прихода посетителей. А так как вывозить
-                мусор днём нельзя, к вечеру возле каждой собиралась бы настоящая
-                свалка.
+                Standard municipal rubbish bins would have been full in the
+                first 60 minutes of the exhibition opening. As a general rule
+                at such events, waste cannot be dealt with by regular means
+                during open hours, thus creating localised garbage dump
+                near every waste bin.
               </mj-text>
             </mj-column>
           </mj-group>
@@ -309,10 +294,10 @@
                 padding="0"
                 font-family="Verdana"
               >
-                Из-за невозможности производить опустошение урн обычными
-                способами весь процесс занимал бы очень много времени. А так как
-                всё происходило в летнее время, на территории всего комплекса
-                стоял бы ужасный запах.
+                As the exhibition is a summer event, the smell would have been
+                relentless. If we take into account Astana’s strong winds
+                as well, the waste mismanagement would have quickly spelt
+                disaster.
               </mj-text>
             </mj-column>
           </mj-group>
@@ -329,7 +314,8 @@
               padding-right="0"
               font-family="Verdana"
             >
-              И всё это на глазах <br /> у десятков тысяч туристов
+              And thousands of tourists <br /> would have been there <br />
+              to see it
             </mj-text>
           </mj-column>
         </mj-section>
@@ -338,7 +324,7 @@
           <mj-column>
             <mj-image
               padding="0"
-              src="https://gallery.mailchimp.com/d0f8d3cf5bde143e58a9700c5/images/18217fc7-fdba-41a9-a6c3-1a26718027ab.jpg"
+              src="https://gallery.mailchimp.com/d0f8d3cf5bde143e58a9700c5/images/c929b423-55c0-4033-88bf-a83f4c13fe85.jpg"
             />
           </mj-column>
         </mj-section>
@@ -350,10 +336,10 @@
               padding="0"
               font-family="Verdana"
             >
-              Мы создали первый в Казахстане эффективный цикл сортировки, сбора
-              и удаления отходов с территории выставки, а также его временного
-              хранения, вывоза и переработки. Система при этом соответствовала
-              всем современным требованиям и мировым экологичным стандартам.
+              We have developed and established Kazakhstan’s first separate
+              waste collection and recycling process. The system held
+              up to advanced local requirements and highest international
+              standards.
             </mj-text>
           </mj-column>
         </mj-section>
@@ -366,29 +352,24 @@
               padding-bottom="0"
               font-family="Verdana"
             >
-              Сначала мы рассчитали объём мусора, который будет на выставке
-              и подобрали для работы с ним лучшее оборудование. Распределили
-              на карте, где всё это будет, установили и запустили в работу.
+              First, we evaluated and calculated the amount and types of waste
+              to be produced, then selected the most efficient equipment that
+              would accommodate all requirements. Each equipment from bin
+              to container was carefully allocated its place, which would
+              maximise service efficiency.
             </mj-text>
           </mj-column>
         </mj-section>
 
-        <mj-section background-color="white" padding="0px" css-class="desktop">
+        <mj-section background-color="white" padding="0px">
           <mj-column>
             <mj-image
               padding="0"
-              src="https://gallery.mailchimp.com/d0f8d3cf5bde143e58a9700c5/images/169fdcc9-3892-43f7-8acd-5e7b02da7d66.png"
+              src="https://gallery.mailchimp.com/d0f8d3cf5bde143e58a9700c5/images/10961b11-5fb2-4a0d-9b4f-90619fae719d.png"
             />
           </mj-column>
         </mj-section>
-        <mj-section background-color="white" padding="0px" css-class="mobile">
-          <mj-column>
-            <mj-image
-              padding="0"
-              src="https://gallery.mailchimp.com/d0f8d3cf5bde143e58a9700c5/images/89b6f0b5-77f0-4062-9f5d-4ee1044854a4.png"
-            />
-          </mj-column>
-        </mj-section>
+    
 
         <mj-section background-color="white" css-class="section24" padding="0">
           <mj-column>
@@ -400,25 +381,25 @@
               padding="0"
               font-family="Verdana"
             >
-              Для сбора мусора на территории выставки установили умные урны
-              Bigbelly Solar. В них встроен пресс для уплотнения отходов
-              и работают они от солнечных панелей.
-            </mj-text>
-            <mj-spacer css-class="spacer24" />
-            <mj-text
-              color="#000000"
-              css-class="size15"
-              font-size="15px"
-              line-height="24px"
-              padding-left="0"
-              font-family="Verdana"
-            >
-              Каждый сегмент урны принимает отходы опредёленного типа. Внутри
-              секции для неперерабатываемых отходов спрятан пресс для
-              уплотнения — это позволяет уменьшить объём мусора в 10 раз.
-              Благодаря этому мы сэкономили на размещении урн — если бы ставили
-              обычные, которые стоят по городу, их бы потребовалось в 30 раз
-              больше.
+              Bigbelly Solar smart bins were installed to collect waste and
+              recyclables at the exhibition area. They are solar-powered
+              containers with integrated mechanical presses for waste
+              compaction.
+              <mj-spacer css-class="spacer24" />
+              <mj-text
+                color="#000000"
+                css-class="size15"
+                font-size="15px"
+                line-height="24px"
+                padding-left="0"
+                font-family="Verdana"
+              >
+                Every smart bin is separated into three segments, which allows
+                separate waste collection. The non-reclaimable waste section has
+                a compaction press inside to reduce the waste volume
+                to 10 times. It allowed us to save on costs of bins. Otherwise,
+                we would have needed around 30 times more conventional bins.
+              </mj-text>
             </mj-text>
           </mj-column>
         </mj-section>
@@ -443,27 +424,17 @@
               padding-right="0"
               font-family="Verdana"
             >
-              В среднем в 10 раз больше мусора помещается <br /> в урну Bigbelly
-              Solar, <br /> в сравнении с обычной урной
+              In general, Bigbelly Solar bin <br /> accommodates 10 times more <br />
+              waste than a conventional bin
             </mj-text>
           </mj-column>
         </mj-section>
 
-        <mj-section padding="0" css-class="desktop">
+        <mj-section padding="0">
           <mj-column>
             <mj-image
               padding="0"
-              src="https://gallery.mailchimp.com/d0f8d3cf5bde143e58a9700c5/images/3e2c8408-abb6-454a-8f50-cc4a810cced7.jpg"
-            />
-          </mj-column>
-        </mj-section>
-        <mj-section padding="0" css-class="mobile">
-          <mj-column>
-            <mj-image
-              padding="0"
-              width="339"
-              height="284"
-              src="https://gallery.mailchimp.com/d0f8d3cf5bde143e58a9700c5/images/3e2c8408-abb6-454a-8f50-cc4a810cced7.jpg"
+              src="https://gallery.mailchimp.com/d0f8d3cf5bde143e58a9700c5/images/1229ed91-c022-4ac7-b74d-5cbfe1a4ed8d.jpg"
             />
           </mj-column>
         </mj-section>
@@ -477,13 +448,14 @@
               padding="0"
               font-family="Verdana"
             >
-              А раздельный сбор упрощает и способствует более качественной
-              переработке мусора:система разделена на три отсека для бумаги,
-              пластика и смешанных отходов. И, что самое главное, такой подход
-              вырабатывает у людей привычку самостоятельно сортировать мусор —
-              в последние дни выставки 90% содержимого урн уже было
-              отсортировано правильно. В будущем казахстанцам будет несложно
-              перенести этот опыт домой, и мы рады, что способствовали этому.
+              Separate waste collection facilitates a higher volume of waste
+              recycling: each bin is divided into three sections
+              (paper/cardboard, plastic and mixed waste). The main thing is that
+              this approach makes people get into the habit to separate their
+              own waste (up to 90% of bin content was separated correctly
+              at least in the last exhibition days). We hope it would now
+              be more natural for Kazakh people to adopt this separate waste
+              collection culture to their daily life.
             </mj-text>
           </mj-column>
         </mj-section>
@@ -512,7 +484,7 @@
               font-weight="bold"
               font-family="Verdana"
             >
-              станция Bigbelly была установлена <br /> на территории ЭКСПО
+              Bigbelly stations were installed <br />at the EXPO area
             </mj-text>
           </mj-column>
         </mj-section>
@@ -535,7 +507,7 @@
                 align="center"
                 font-family="Verdana"
               >
-                сокращение затрат на сбор отходов
+                of cost reduction<br />for waste collection
               </mj-text>
             </mj-column>
             <mj-column>
@@ -556,7 +528,7 @@
                 align="center"
                 font-family="Verdana"
               >
-                повышение эффективности сбора
+                improvement<br />of collection<br />effectiveness
               </mj-text>
             </mj-column>
             <mj-column>
@@ -577,29 +549,20 @@
                 align="center"
                 font-family="Verdana"
               >
-                экономия топлива в год
+                fuel economy<br />per year
               </mj-text>
             </mj-column>
           </mj-group>
         </mj-section>
-        <mj-section padding="0" css-class="desktop">
-          <mj-column>
+        <mj-section  padding="0">
+          <mj-column >
             <mj-image
-              padding="0"
-              src="https://gallery.mailchimp.com/d0f8d3cf5bde143e58a9700c5/images/b4821385-7940-4edb-bd71-9ec759aeb130.jpg"
+              padding="0px"
+              src="https://gallery.mailchimp.com/d0f8d3cf5bde143e58a9700c5/images/128e85c1-1430-4ef0-9ba0-68b93886ed6f.jpg"
             />
           </mj-column>
         </mj-section>
-        <mj-section padding="0" css-class="mobile">
-          <mj-column>
-            <mj-image
-              padding="0"
-              width="339"
-              height="233"
-              src="https://gallery.mailchimp.com/d0f8d3cf5bde143e58a9700c5/images/b4821385-7940-4edb-bd71-9ec759aeb130.jpg"
-            />
-          </mj-column>
-        </mj-section>
+     
 
         <mj-section background-color="white" padding="0" css-class="section24">
           <mj-column>
@@ -610,14 +573,12 @@
               padding="0"
               font-family="Verdana"
             >
-              Их автомобильный парк считается одним из лучших в мире в сферах
-              промышленности, уборки территорий, логистики, сбора мусора
-              и транспортировки. Особенно важным для нас было то, что машины
-              работали на электрических батареях. Это позволило сэкономить
-              на топливе и исключить загрязнение воздуха столицы. К тому же,
-              машинам на газе и бензине было запрещено передвигаться
-              на выставке. Исключение сделали лишь для медицинских служб,
-              но и то, их машины дежурили исключительно у въезда.
+              Their vehicles are one of the world’s best in cleaning, logistics,
+              waste collection and transportation. It was crucial for us that
+              all of our transport was electrical. We saved on fuel and skipped
+              on air pollution. Moreover, LPG and gasoline-powered vehicles were
+              prohibited entirely at the exhibition area. The exception was made
+              only for medical service stationed only at the entrance.
             </mj-text>
           </mj-column>
         </mj-section>
@@ -640,7 +601,7 @@
                 padding-right="0"
                 font-family="Verdana"
               >
-                до
+                up to
               </mj-text>
               <mj-text
                 css-class="size48"
@@ -651,7 +612,7 @@
                 padding-right="0"
                 font-family="Verdana"
               >
-                100 км
+                100 km
               </mj-text>
               <mj-text
                 color="#000000"
@@ -663,7 +624,7 @@
                 align="center"
                 font-family="Verdana"
               >
-                на одном заряде
+                on a single charge
               </mj-text>
             </mj-column>
             <mj-column css-class="section24">
@@ -676,7 +637,7 @@
                 padding-right="0"
                 font-family="Verdana"
               >
-                до
+                up to
               </mj-text>
               <mj-text
                 css-class="size48"
@@ -687,7 +648,7 @@
                 padding-right="0"
                 font-family="Verdana"
               >
-                1000 кг
+                1000 kg
               </mj-text>
               <mj-text
                 color="#000000"
@@ -699,7 +660,7 @@
                 align="center"
                 font-family="Verdana"
               >
-                грузоподъёмность
+                of load capacity
               </mj-text>
             </mj-column>
           </mj-group>
@@ -716,7 +677,7 @@
               font-weight="bold"
               font-family="Verdana"
             >
-              Каких результатов достигли
+              Accomplishment
             </mj-text>
           </mj-column>
         </mj-section>
@@ -740,8 +701,8 @@
               font-family="Verdana"
             >
               <b>
-                За время работы выставки <br /> мы вывезли 17 759 <br />
-                кубических метров мусора
+                We collected 17 759<br />cubic meters of waste during<br />the exhibion
+                days
               </b>
             </mj-text>
           </mj-column>
@@ -756,12 +717,11 @@
               padding="0"
               font-family="Verdana"
             >
-              Чтобы вы могли представить: классический металлический контейнер
-              для мусора, который обычно ставят во дворах жилых домов, вмещает
-              0,75 кубических метра. Если бы мы собирали весь мусор в такие
-              контейнеры, их бы нам потребовалось 23 412 штук. А мы всё собирали
-              в мобильные пресс-контейнеры, которых нам потребовалось всего 13
-              штук.
+              Imagine: conventional steel waste container we may often see
+              in the backyards can accommodate only 0.75 cubic meters. If we put
+              all waste in these containers, we would require 23,412 of them.
+              Since we accumulated waste in mobile presscontainers, we only
+              needed 13.
             </mj-text>
           </mj-column>
         </mj-section>
@@ -775,11 +735,11 @@
               padding-left="0"
               font-family="Verdana"
             >
-              Обслуживали мы не только казахстанскую часть, но и всю выставку
-              в целом — это 21 международная организация и павильоны более 100
-              стран-участниц. За три месяца, включая самих организаторов,
-              провели более 3000 мероприятий — от деловых форумов до концертов
-              мировых звёзд.
+              We provided services not only to Kazakhstan part of the exhibition
+              but also the entire area (25Ha), i.e. 21 international
+              organisations and over 100 visiting countries. Over 3,000 events
+              (including those of event planners) from business meetings and
+              world star concerts were held.
             </mj-text>
           </mj-column>
         </mj-section>
@@ -787,7 +747,7 @@
         <mj-section padding="0" background-color="white">
           <mj-column>
             <mj-image
-              src="https://gallery.mailchimp.com/d0f8d3cf5bde143e58a9700c5/images/0ebe3660-fbb2-46fd-a4fd-3a19d9585845.jpg"
+              src="https://gallery.mailchimp.com/d0f8d3cf5bde143e58a9700c5/images/3009b510-c53b-4bde-a37f-1111b6103e43.jpg"
               padding="0"
             />
           </mj-column>
@@ -802,10 +762,10 @@
               padding="0"
               font-family="Verdana"
             >
-              По итогам активной фазы проведения выставки мы достигли показателя
-              в 42% по переработке всех отходов. Вообще, такую задачу нам
-              не ставили, мы просто сделали это. Потому что отсортированный
-              мусор нужно куда-то девать, и лучший вариант — на переработку.
+              During the active phase of the exhibition over 42% of all waste
+              was treated. It was not our mandatory objective, but we still did
+              our best. We needed to do decide the best way to deal with
+              separated waste, and we agreed on recycling.
             </mj-text>
             <mj-spacer css-class="spacer24" />
             <mj-text
@@ -818,45 +778,47 @@
               padding-bottom="0px"
               font-family="Verdana"
             >
-              Особенно гордимся тем, что благодаря эффективному планированию
-              мы успевали вывозить весь мусор за ночь — с 01:00 до 07:00 — это
-              делалось для того, чтобы посетители не видели мусор вообще.
+              We are very proud that we managed to remove all waste and
+              recycling during the only possible time: from 01:00 to 07:00am,
+              thanks to efficient planning. Visitors never saw any waste hauling
+              vehicles at all.
             </mj-text>
           </mj-column>
         </mj-section>
         <mj-section css-class="desktop" background-color="white" padding="0">
           <mj-group>
             <mj-column>
-              <mj-text
-                padding-left="0"
-                color="#000000"
-                css-class="size15"
-                padding-top="0px"
-                align="left"
-                font-family="Verdana"
-              >
-                После демонтажа павильонов мы также вывезли весь строительный
-                мусор. 87% отправили на полигон, оставшиеся 13% — на переработку
-                и вторичное использование. Это немало, учитывая, что
-                в Казахстане в принципе не принята утилизация строительного
-                мусора. С января 2018 года всех строителей и девелоперов
-                законодательно обяжут утилизировать строительные отходы, но пока
-                таких требований нет.
-              </mj-text>
-            </mj-column>
+            <mj-text
+              color="#000000"
+              css-class="size15"
+              font-size="15px"
+              line-height="24px"
+              padding-top="12px"
+              padding-left="0"
+              padding-bottom="0px"
+              font-family="Verdana"
+            >
+                We also disposed of all construction waste upon pavilion
+                deconstruction phase, estimating around 14,170 cubic meters
+                in total with 87% sent to landfill and remaining 13% processed
+                and recycled. It is not a bad start as construction waste
+                recycling is almost never done in Kazakhstan. All construction
+                and property development companies will be required to recover
+                their construction waste starting from January 2018. However,
+                there is no such requirement currently.
+            </mj-text>
+            </mj-column> 
             <mj-column>
-              <mj-spacer height="110px" />
               <mj-text
                 color="#23B0E5"
                 padding-left="0"
                 padding-right="0"
-                css-class="size25 _total"
+                css-class="size25"
                 align="center"
                 font-family="Verdana"
               >
                 <b>
-                  Всего мы собрали 14 170 <br /> кубических метров строительного
-                  мусора
+                  In total<br />we collected<br />14 170<br />cubic meters<br />of construction<br />waste
                 </b>
               </mj-text>
             </mj-column>
@@ -873,13 +835,14 @@
                 align="left"
                 font-family="Verdana"
               >
-                После демонтажа павильонов мы также вывезли весь строительный
-                мусор. 87% отправили на полигон, оставшиеся 13% — на переработку
-                и вторичное использование. Это немало, учитывая, что
-                в Казахстане в принципе не принята утилизация строительного
-                мусора. С января 2018 года всех строителей и девелоперов
-                законодательно обяжут утилизировать строительные отходы, но пока
-                таких требований нет.
+                We also disposed of all construction waste upon pavilion
+                deconstruction phase, estimating around 14,170 cubic meters
+                in total with 87% sent to landfill and remaining 13% processed
+                and recycled. It is not a bad start as construction waste
+                recycling is almost never done in Kazakhstan. All construction
+                and property development companies will be required to recover
+                their construction waste starting from January 2018. However,
+                there is no such requirement currently.
               </mj-text>
             </mj-column>
             <mj-column>
@@ -893,8 +856,7 @@
                 font-family="Verdana"
               >
                 <b>
-                  Всего мы собрали 14 170 <br /> кубических метров строительного
-                  мусора
+                  In total<br />we collected<br />14 170<br />cubic meters<br />of construction<br />waste
                 </b>
               </mj-text>
             </mj-column>
@@ -912,7 +874,7 @@
               padding="0"
               font-family="Verdana"
             >
-              Наши партнёры
+              Our partners
             </mj-text>
             <mj-text
               color="#000000"
@@ -922,8 +884,9 @@
               padding-left="0"
               font-family="Verdana"
             >
-              Конечно, одним такую работу проделать было бы сложно. Но мы живем
-              в Казахстане и у нас много друзей! Вот, кто эти герои:
+              It was challenging to complete this project on our own of course,
+              but we live in Kazakhstan, and we have some friends! Here they
+              are:
             </mj-text>
           </mj-column>
         </mj-section>
@@ -952,7 +915,7 @@
                 padding-right="0"
                 font-family="Verdana"
               >
-                Привезли и установили часть оборудования
+                Imported and installed a portion of the equipment
               </mj-text>
             </mj-column>
             <mj-column width="35%">
@@ -978,8 +941,8 @@
                 padding-right="0"
                 font-family="Verdana"
               >
-                Занимались непосредственно уборкой: нанимали людей и
-                использовали оборудование
+                Dealt directly with cleaning and waste removal: staffing and
+                equipment operation
               </mj-text>
             </mj-column>
             <mj-column width="35%">
@@ -990,7 +953,7 @@
                 color="#000000"
                 font-weight="bold"
               >
-                ФНД <br /> «Управление <br /> отходами»
+                Waste Management<br />Department
               </mj-text>
             </mj-column>
             <mj-column width="65%" css-class="section12">
@@ -1003,9 +966,8 @@
                 padding-right="0"
                 font-family="Verdana"
               >
-                Отвечали за процесс сбора мусора со всей территории выставки, а
-                также последующим <br /> сбором из зон хранения и вывозом за
-                пределы выставки
+                Responsible for waste management<br />operations, quality
+                control, communications
               </mj-text>
             </mj-column>
             <mj-column width="35%">
@@ -1018,7 +980,7 @@
                 padding-left="0px"
                 padding-top="10px"
               >
-                Руководство национальной компании Астана ЭКСПО-2017
+                Management of<br />Astana EXPO-2017<br />National Company
               </mj-text>
             </mj-column>
             <mj-column width="65%">
@@ -1031,11 +993,10 @@
                 padding-right="0"
                 font-family="Verdana"
               >
-                И, конечно же, руководство национальной компании Астана
-                ЭКСПО-2017, особенно департамент сервисного обеспечения — люди,
-                которые поверили в возможность столь большого проекта
-                на территории Казахстана. Такого полного цикла — сбор,
-                сортировка и переработка мусора — ещё никто не делал.
+                And of course, management of Astana EXPO-2017 National Company,
+                people who believed that such a large-scale project is possible
+                in Kazakhstan. Nobody has ever run such a complete (waste
+                collection, recycling and processing) cycle before.
               </mj-text>
             </mj-column>
           </mj-group>
@@ -1050,8 +1011,9 @@
               padding-left="0"
               font-family="Verdana"
             >
-              Были рады такому хорошему сотрудничеству! Благодаря этому опыту мы
-              поняли, что после ЭКСПО-2017 нам под силу проекты любой сложности.
+              We were glad to be a part of such a diverse team! With this
+              experience, we realised that we could handle any projects after
+              Astana EXPO-2017.
             </mj-text>
           </mj-column>
         </mj-section>
@@ -1094,8 +1056,8 @@
               padding-left="0px"
               font-family="Verdana"
             >
-              &#10003; &nbsp;Разрабатываем концепты и проекты по управлению
-              отходами;
+              &#10003; &nbsp;Development of waste management concepts and
+              projects;
             </mj-text>
             <mj-text
               color="#000000"
@@ -1108,7 +1070,7 @@
               padding-left="0px"
               font-family="Verdana"
             >
-              &#10003; &nbsp;Управляем проектами;
+              &#10003; &nbsp;Project management;
             </mj-text>
             <mj-text
               color="#000000"
@@ -1121,8 +1083,8 @@
               padding-left="0"
               font-family="Verdana"
             >
-              &#10003; &nbsp;Подбираем и поставляем оборудование, в том числе
-              для опасных отходов;
+              &#10003; &nbsp;Selection and supply of equipment including that
+              for hazardous waste;
             </mj-text>
             <mj-text
               color="#000000"
@@ -1135,8 +1097,7 @@
               padding-left="0"
               font-family="Verdana"
             >
-              &#10003; &nbsp;Консультируем по BREEAM и LEED сертификации
-              и отчётности в сфере сбора, сортировки и переработки отходов;
+              &#10003; &nbsp;BREEAM and LEED consultations;
             </mj-text>
             <mj-text
               color="#000000"
@@ -1149,7 +1110,7 @@
               padding-left="0"
               font-family="Verdana"
             >
-              &#10003; &nbsp;Разрабатываем оборудование под заказ;
+              &#10003; &nbsp;Municipal and construction waste hauling;
             </mj-text>
             <mj-text
               color="#000000"
@@ -1162,8 +1123,7 @@
               padding-left="0"
               font-family="Verdana"
             >
-              &#10003; &nbsp;Делаем расчёт необходимого спецтранспорта
-              и логистики;
+              &#10003; &nbsp;Development of custom equipment;
             </mj-text>
             <mj-text
               color="#000000"
@@ -1176,7 +1136,20 @@
               padding-left="0"
               font-family="Verdana"
             >
-              &#10003; &nbsp;Разрабатываем нормативы образования отходов.
+              &#10003; &nbsp;Logistics;
+            </mj-text>
+            <mj-text
+              color="#000000"
+              css-class="size15"
+              font-size="15px"
+              line-height="24px"
+              padding-right="0"
+              padding-bottom="0"
+              padding-top="0"
+              padding-left="0"
+              font-family="Verdana"
+            >
+              &#10003; &nbsp;Development of waste norms and tariffs.;
             </mj-text>
           </mj-column>
         </mj-section>
@@ -1191,9 +1164,9 @@
               padding-left="0"
               font-family="Verdana"
             >
-              Спасибо, что дочитали. Это было первое письмо, следующие будут
-              приходить 1 раз в месяц. Будем рассказывать о самом интересном
-              и полезном, что может пригодиться в вашей работе.
+              Thank you for reading to the end of our first e-mail. These
+              digests are planned to be sent once a month. We will tell you more
+              about the most exciting and useful topics.
             </mj-text>
             <mj-spacer css-class="spacer24" />
             <mj-text
@@ -1205,8 +1178,8 @@
               padding-left="0"
               font-family="Verdana"
             >
-              Если у вас есть интересные задачи, связанные с инновационными
-              технологиями и управлением отходами, пишите нам!
+              Do not hesitate to send us a message if you are interested to know
+              more or work together on next project!
             </mj-text>
           </mj-column>
         </mj-section>
@@ -1222,7 +1195,7 @@
                 align="left"
                 font-family="Verdana"
               >
-                Ждём ваших писем и звонков!
+                Waiting for your letters and calls!
               </mj-text>
               <mj-text
                 padding-left="0"
@@ -1232,7 +1205,7 @@
                 align="left"
                 font-family="Verdana"
               >
-                Электронная почта <br /> <b>info@tausolutions.kz</b>
+                E-mail <br /> <b>info@tausolutions.kz</b>
               </mj-text>
               <mj-text
                 padding-left="0"
@@ -1242,7 +1215,7 @@
                 align="left"
                 font-family="Verdana"
               >
-                Телефон <br /> <b>+7 (727) 354-15-85</b>
+                Call <br /> <b>+7 (727) 354-15-85</b>
               </mj-text>
             </mj-column>
             <mj-column css-class="soc__block-right">
@@ -1255,17 +1228,19 @@
                 align="center"
                 font-family="Verdana"
               >
-                И подписывайтесь <br /> на наши страницы
+                Subscribe to<br />our social media
               </mj-text>
               <mj-image
                 css-class="icon gram"
-                width="53"
+                                padding-left="0"
+                width="45"
                 height="45"
-                href="https://www.instagram.com/tau_solutions/"
-                src="https://gallery.mailchimp.com/e92ea81d2be99d544420d5949/images/a81f5f20-2a93-42d7-be19-34eb379c89d1.png"
+                href="https://www.linkedin.com/company/tau-innovative-solutions/"
+                src="https://gallery.mailchimp.com/d0f8d3cf5bde143e58a9700c5/images/c2814735-d896-436b-8531-5e151f9fb927.png"
               />
               <mj-image
                 css-class="icon fb"
+                padding-left="0"
                 width="45"
                 height="45"
                 href="https://www.facebook.com/TauInnovativeSolutions"
@@ -1302,7 +1277,7 @@
               padding="0"
               font-family="Verdana"
             >
-              Узнайте подробнее <br /> о наших технологиях
+              Learn more<br />about our technologies
             </mj-text>
           </mj-column>
         </mj-section>
@@ -1314,21 +1289,21 @@
                 padding="0"
                 color="#000000"
               >
-                Умные урны для города
+                Smart bins for the city
               </mj-text>
               <mj-text
                 css-class="size15 button-prev-title"
                 padding="0"
                 color="#000000"
               >
-                Электрокары с адаптацией под любой бизнес
+                Cargo electric vehicles<br />for any kind of business
               </mj-text>
               <mj-text
                 css-class="size15  button-prev-title-last"
                 padding="0"
                 color="#000000"
               >
-                Уличная фурнитура и эргономичные урны
+                Street furniture<br />and ergonomic bins
               </mj-text>
             </mj-column>
             <mj-column width="50%">
@@ -1364,21 +1339,21 @@
                 padding="0"
                 color="#000000"
               >
-                Умные урны для города
+                Smart bins for the city
               </mj-text>
               <mj-text
                 css-class="size15 button-prev-title second-prev"
                 padding="0"
                 color="#000000"
               >
-                Электрокары с адаптацией под любой бизнес
+                Cargo electric vehicles<br />for any kind of business
               </mj-text>
               <mj-text
                 css-class="size15  button-prev-title-last"
                 padding="0"
                 color="#000000"
               >
-                Уличная фурнитура и эргономичные урны
+                Street furniture<br />and ergonomic bins
               </mj-text>
             </mj-column>
             <mj-column width="50%">
@@ -1414,15 +1389,14 @@
           <mj-column>
             <mj-text padding="0">
               <p style="margin:0 !important;padding:0 !important;color:#545454 !important;font-size:12px !important;text-align:left !important;">
-                Если по какой-то причине вы не желаете получать наши письма, то
-                просим прощения за беспокойство. Вы можете
+                If you would like to stop receiving our emails, please
                 <a
                   href="*|UNSUB|*"
                   style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #545454;font-weight: normal;text-decoration: underline;font-size:12px !important;"
                 >
-                  отписаться
-                </a>
-                от этой рассылки.
+                  let us know why
+                </a>. <br />
+                We are always keen to make our correspondence relevant.
               </p>
             </mj-text>
           </mj-column>

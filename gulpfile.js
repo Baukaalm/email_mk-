@@ -4,7 +4,7 @@ var browserSync = require('browser-sync').create();
 
 gulp.task('mjml', function() {
     return gulp
-        .src('./index.mjml')
+        .src('./*.mjml')
         .pipe(mjml())
         .pipe(gulp.dest('./'))
         .pipe(browserSync.stream());
@@ -17,5 +17,5 @@ gulp.task('serve', ['mjml'], function() {
         }
     });
 
-    gulp.watch('./index.mjml', ['mjml']);
+    gulp.watch('./*.mjml', ['mjml']);
 });
